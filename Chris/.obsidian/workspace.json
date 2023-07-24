@@ -4,71 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "a80fd56aa017e445",
+        "id": "817d8934de7720e1",
         "type": "tabs",
         "children": [
           {
-            "id": "d7361a11be3de94f",
+            "id": "7609fad6cfd9e8d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/2023-05-20.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "7bee8e4dfc741746",
+            "id": "d46d85b2195358ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/ErwinCampaign/Campaign log.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ffb95a7baee5790",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Current Traps.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cfe8e51134c72424",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/2023-07-24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36ded0b138a4c0c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian Github Plan.md",
+                "file": "This is a Test .md.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Github Plan.md",
+                "file": "This is a Test .md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Github Plan.md",
+                "file": "This is a Test .md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Github Plan.md"
+                "file": "This is a Test .md.md"
               }
             }
           },
@@ -213,12 +173,13 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "workspaces:Manage workspace layouts": false,
-      "remotely-save:Remotely Save": false,
-      "obsidian-memos:Memos": false
+      "obsidian-memos:Memos": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "36ded0b138a4c0c7",
+  "active": "d46d85b2195358ba",
   "lastOpenFiles": [
+    "This is a Test .md.md",
     "Journal/2023-07-24.md",
     "Obsidian Github Plan.md",
     "Tonomy/Tonomy Package.md",
@@ -244,7 +205,6 @@
     "DND/Evil Tree/temple of graz'zt 3rd chamber of pleasure.md",
     "DND/Evil Tree/Temple of Graz'tz First Chamber Grand Hall.md",
     "DND/Evil Tree/Malgorth.md",
-    "DND/Evil Tree/libary of the twilight forest.md",
     "DND/NPC HUNTING PARTY",
     "DND/Evil Tree",
     "DND/ErwinCampaign",
