@@ -1,0 +1,11 @@
+- Usb C
+- USB micro
+- MicroHDMI to HDMI
+- SD cards
+- USB camera
+- USB microphone
+- Crain
+- Steamdeck - Alternative
+- 
+- 
+- 
