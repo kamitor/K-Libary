@@ -21,14 +21,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "This is a Test .md.md",
+                "file": "Journal/2023-08-02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc4fe467f7fe8530",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Github Plan.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -57,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "backup",
+                "query": "kamitor rock",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "This is a Test .md.md",
+                "file": "Obsidian Github Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "This is a Test .md.md",
+                "file": "Obsidian Github Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "This is a Test .md.md"
+                "file": "Obsidian Github Plan.md"
               }
             }
           },
@@ -173,22 +185,64 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-memos:Memos": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "obsidian-memos:Memos": false
     }
   },
-  "active": "d46d85b2195358ba",
+  "floating": {
+    "id": "9a300e33faafc977",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a477c08c097104b4",
+        "type": "window",
+        "children": [
+          {
+            "id": "d5d3f0cca9013c21",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c476a09e193953be",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Esengo Grant Work;.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 50,
+        "width": 1920,
+        "height": 1030,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "dc4fe467f7fe8530",
   "lastOpenFiles": [
-    "This is a Test .md.md",
-    "Journal/2023-07-24.md",
+    "Esengo Grant Work;.md",
+    "DND/ErwinCampaign/Rock Gnome.md",
     "Obsidian Github Plan.md",
+    "Potions to be Created with Jug.md",
+    "Journal/2023-08-04.md",
+    "Brief Friedhelm Fermi Ardi subsidie esengo.md",
+    "Journal/2023-08-02.md",
+    "Current Traps.md",
+    "This is a Test .md.md",
+    "Journal/Ideeen voor Lislet.md",
+    "Journal/2023-07-24.md",
     "Tonomy/Tonomy Package.md",
     "Journal/2023-05-20.md",
     "Tonomy/Pitches/Tonomy - ID Pitch.md",
     "Journal/2023-05-17.md",
-    "DND/ErwinCampaign/Rock Gnome.md",
-    "Potions to be Created with Jug.md",
-    "Current Traps.md",
     "DND/ErwinCampaign/Campaign log.md",
     "Journal/2023-05-15.md",
     "Tonomy/Pitches/Tonomy Supplychain Email.md",
@@ -200,11 +254,6 @@
     "DND/Evil Tree/Twilight Forest.md",
     "DND/Evil Tree/twilight Circle.md",
     "DND/Evil Tree/Traps DnD Session Tree.md",
-    "DND/Evil Tree/Temple of Graz'zt chamber of sacrafice.md",
-    "DND/Evil Tree/temple of graz'zt 4th chamber of inner sanctum.md",
-    "DND/Evil Tree/temple of graz'zt 3rd chamber of pleasure.md",
-    "DND/Evil Tree/Temple of Graz'tz First Chamber Grand Hall.md",
-    "DND/Evil Tree/Malgorth.md",
     "DND/NPC HUNTING PARTY",
     "DND/Evil Tree",
     "DND/ErwinCampaign",
