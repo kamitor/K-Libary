@@ -2,6 +2,9 @@
 quickshare-date: 2023-05-15 23:16:59
 quickshare-url: "https://noteshare.space/note/clhpciif4493501pjv1uz959h#qUMIAugABU9ysyVzkodOnYjo/VbG4KzYYnl6a0Xwdgs"
 ---
+
+[[Rock Gnome - Kamitor]]
+
 Characters;
 
 Ren - Rey - Rogue
@@ -98,8 +101,37 @@ Burned away spellbook.
 Blank Parchment
 
 Leather x4
-After the battle we spend time looting, and get the items above. 
+After the battle we espend time looting, and get the items above. 
 Aric, goes to the captured enemy, called "Frederic" and tries to see if they would know what its from. Frederic says he doesn't know. Aric gives him a drink. 
 
 
 
+Session - After the Arena Fight;
+
+New Items: 
+
+- We go out into the forest and find a row of pebbles; 
+- We discuss a bit 
+
+Enter and face a couple of Tree Ents; 
+Eric gets paralized
+Olivia is downed twice
+Kass is downed once
+Used Heroism 
+
+
+
+We are in a forest with blue Aura everywhere
+And everything is breautiful 
+and suddenly we find ourselves in a different place and open ground 
+In the middle the lady is singing, all kinds of magical stuff going on. 
+Draids are there, nothing of steel; 
+They do not seem hostile; 
+
+Rey runs up with Olivia in his arms to ask for assistance, but the dryds are ignoring him
+I fire my gun into the air, the trees turn around, but the dryads don't respond
+kass starts singing, we wake up in a forest with no one around, completly healed without kass
+On the ground is a dagger, in red glow,
+Both Rey and Eric || Go for new blade. 
+Kass feels protected
+Eric starts acting very Confident all of a suddenly.

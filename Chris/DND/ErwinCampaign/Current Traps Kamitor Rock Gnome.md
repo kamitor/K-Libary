@@ -3,6 +3,8 @@ quickshare-date: 2023-05-15 20:15:13
 quickshare-url: "https://noteshare.space/note/clhp60rj1456201pj77yeuq5l#tyl6Tl3q0tSftYgGjsPPtbTmfPqWzMA2Gup4DFY8vQQ"
 ---
 
+[[Rock Gnome - Kamitor]]
+
 - Copper plate - 2 crossbows - 1 dagger - Soap - Flask of acid - Burning oil - scraps of metal - Rope
 
 

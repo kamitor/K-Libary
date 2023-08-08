@@ -6,9 +6,33 @@ Name: Kamitor
 Gender: male
 Race: Rock Gnome
 
+Items; [[Items Kamitor The Rock Gnome]]
+https://gamersdecide.com/articles/dnd-best-artificer-builds
 Background: Urchin
 Backstory: [[Backstory Kamitor the Rock Gnome]]
 Class: Artificer (Artillerist)
+https://www.dndwiki.io/classes/artificer
+Specialization : http://dnd5e.wikidot.com/artificer:battle-smith
+Mount: [[Kamitor's Mount]]
+Campaign Log: [[Campaign log Kamitor rock Gnome]]
+
+Amount of Spellslots: [[]]
+
+# Skills: 
+
+Forging: https://www.dndbeyond.com/search?q=Foraging
+Alchemy: 
+Trap making:
+Traps:
+Armour:
+Tinkering: 
+
+Armour : 14
+
+HP: 24
+
+
+Gold Log: [[ Kamitor Rock gnome Gold log]]
 
 Ability Scores (using point buy):
 
@@ -65,6 +89,15 @@ Artillerist Features:
 Background Feature:
 
 -   City Secrets
+
+Spelllist 
+
+Green-Fire blade; http://dnd5e.wikidot.com/spell:green-flame-blade
+Mending
+Fire-Bolt
+
+
+
 
 Personality Traits:
 
