@@ -45,6 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "DND/ErwinCampaign/Kamitor's Mount.md",
                 "mode": "source",
                 "source": false
@@ -58,6 +59,9 @@
               "type": "markdown",
               "state": {
                 "file": "Obsidian Github Plan.md",
+=======
+                "file": "Journal/2023-08-08.md",
+>>>>>>> main
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Github Plan.md",
+                "file": "Journal/2023-08-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Github Plan.md",
+                "file": "Journal/2023-08-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Github Plan.md"
+                "file": "Journal/2023-08-08.md"
               }
             }
           },
@@ -215,7 +219,10 @@
   },
   "active": "e9bac4aaba2f651a",
   "lastOpenFiles": [
+    "Obsidian Github Plan.md",
+    "Journal/2023-08-08.md",
     "Esengo Grant Work;.md",
+<<<<<<< HEAD
     "Journal/2023-08-08.md",
     "DND/ErwinCampaign/Campaign log Kamitor rock Gnome.md",
     "DND/ErwinCampaign/Rock Gnome - Kamitor.md",
@@ -228,6 +235,9 @@
     "Journal/2023-08-02.md",
     "AI Generator Audio.md",
     "Obsidian Github Plan.md",
+=======
+    "DND/ErwinCampaign/Rock Gnome.md",
+>>>>>>> main
     "Potions to be Created with Jug.md",
     "Brief Friedhelm Fermi Ardi subsidie esengo.md",
     "This is a Test .md.md",
@@ -241,6 +251,14 @@
     "Tonomy/Pitches/Tonomy Supplychain Email.md",
     "Tonomy/Pitches/Tonomy Supplychain.md",
     "Tonomy/Pitches/Tonomy + Civic.md",
+<<<<<<< HEAD
+=======
+    "DND/Fraz-Urb'lu party.md",
+    "DND/Evil Tree/herbalist handbook.md",
+    "DND/Evil Tree/herbs in the twilight forest.md",
+    "DND/Evil Tree/Twilight Forest.md",
+    "DND/Evil Tree/twilight Circle.md",
+>>>>>>> main
     "DND/NPC HUNTING PARTY",
     "DND/Evil Tree",
     "DND/ErwinCampaign",
