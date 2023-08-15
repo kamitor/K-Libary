@@ -28,7 +28,7 @@ Tonomy F - Techstack
 
 
 - [] Korte intro even a kantikken. 
-- Het verhaal moet goed uittikken; 
+- []  Het verhaal moet goed uittikken; 
 - Elevator Pitch
 - Full Talk
 - NDA maken
@@ -51,3 +51,24 @@ Tonomy - Technische partij voor Cryptologie
 
 Wat gaan we eigenlijk doen
 Welke partners gaan we benaderen en waarom
+
+
+[[esengo Grant Opportunities]]
+
+
+Problem:
+
+- Funding in agrifood is hard, trade is unreliable, industry is ripe for digitalization.
+- Digitalization brings in centralisation of power problems, which goes against the "way supplychains inherently want to work"
+- Vendor Locking - Who Owns the data - 
+
+
+Solution:
+- Esengo: a peer-to-peer document and exhange application; 
+- Esengo Marketplace: Distributed marketplace that can facilitate transactions made by the esengo app, with additional layers of trust, automation.
+
+Business Model:
+
+The Esengo app is free to use
+The Esengo marketplace is free to use
+

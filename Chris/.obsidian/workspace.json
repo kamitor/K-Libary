@@ -45,7 +45,6 @@
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
                 "file": "DND/ErwinCampaign/Kamitor's Mount.md",
                 "mode": "source",
                 "source": false
@@ -58,17 +57,86 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "esengo Grant Opportunities.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dec17d12eb07e0a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2023-08-11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f1f8651b7dfb91a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2023-08-14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8436b13cc54945f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Raspberry Zero - lyr.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fbb41596846b8559",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "This is a Test .md.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1a6418289f47c75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2023-08-15.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eecafb49aa0020c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Obsidian Github Plan.md",
-=======
-                "file": "Journal/2023-08-08.md",
->>>>>>> main
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -142,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023-08-08.md",
+                "file": "Obsidian Github Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023-08-08.md",
+                "file": "Obsidian Github Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023-08-08.md"
+                "file": "Obsidian Github Plan.md"
               }
             }
           },
@@ -217,57 +285,54 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "e9bac4aaba2f651a",
+  "active": "eecafb49aa0020c4",
   "lastOpenFiles": [
+    "Glasses.md",
     "Obsidian Github Plan.md",
-    "Journal/2023-08-08.md",
-    "Esengo Grant Work;.md",
-<<<<<<< HEAD
-    "Journal/2023-08-08.md",
-    "DND/ErwinCampaign/Campaign log Kamitor rock Gnome.md",
-    "DND/ErwinCampaign/Rock Gnome - Kamitor.md",
-    "DND/ErwinCampaign/Backstory Kamitor the Rock Gnome.md",
-    "DND/ErwinCampaign/Items Kamitor The Rock Gnome.md",
-    "DND/ErwinCampaign/Kamitor's Mount.md",
-    "DND/ErwinCampaign/Current Traps Kamitor Rock Gnome.md",
-    "DND/ErwinCampaign/Kamitor Rock gnome Gold log.md",
-    "Journal/2023-08-04.md",
-    "Journal/2023-08-02.md",
-    "AI Generator Audio.md",
-    "Obsidian Github Plan.md",
-=======
-    "DND/ErwinCampaign/Rock Gnome.md",
->>>>>>> main
     "Potions to be Created with Jug.md",
-    "Brief Friedhelm Fermi Ardi subsidie esengo.md",
+    "Raspberry Zero - lyr.md",
+    "Reactive Leds.md",
     "This is a Test .md.md",
-    "Journal/Ideeen voor Lislet.md",
-    "Journal/2023-07-24.md",
-    "Tonomy/Tonomy Package.md",
-    "Journal/2023-05-20.md",
-    "Tonomy/Pitches/Tonomy - ID Pitch.md",
-    "Journal/2023-05-17.md",
-    "Journal/2023-05-15.md",
-    "Tonomy/Pitches/Tonomy Supplychain Email.md",
-    "Tonomy/Pitches/Tonomy Supplychain.md",
-    "Tonomy/Pitches/Tonomy + Civic.md",
-<<<<<<< HEAD
-=======
-    "DND/Fraz-Urb'lu party.md",
-    "DND/Evil Tree/herbalist handbook.md",
-    "DND/Evil Tree/herbs in the twilight forest.md",
-    "DND/Evil Tree/Twilight Forest.md",
-    "DND/Evil Tree/twilight Circle.md",
->>>>>>> main
-    "DND/NPC HUNTING PARTY",
-    "DND/Evil Tree",
-    "DND/ErwinCampaign",
-    "Untitled",
-    "Agile Workshop",
-    "3DPrinten",
-    "Untitled.canvas",
-    "Tonomy/Agile workshop",
-    "DND",
-    "Templates/Supplychain Course"
+    "Esengo Grant Work;.md",
+    "AI Generator Audio.md",
+    "Brief Friedhelm Fermi Ardi subsidie esengo.md",
+    "Communistopoly - Communist Monopoly.md",
+    "CV Chris.md",
+    "esengo Grant Opportunities.md",
+    "Chris Personal/Comopoly/Communistopoly Cards and Money/Individual Cards/Rebellion Cards/clothing.png",
+    "Chris Personal/Comopoly/Communistopoly Cards and Money/Individual Cards/Rebellion Cards/Vandal.png",
+    "Chris Personal/Comopoly/Communistopoly Cards and Money/Individual Cards/Rebellion Cards/Speak against the state.png",
+    "Chris Personal/Comopoly/Communistopoly Cards and Money/Individual Cards/Rebellion Cards/Nothing to see here.png",
+    "Chris Personal/Comopoly/Communistopoly Cards and Money/Individual Cards/Rebellion Cards/Go to gulag.png",
+    "Chris Personal/Comopoly/Communistopoly Cards and Money/Individual Cards/Rebellion Cards/Get out of gulag free.png",
+    "Chris Personal/Comopoly/Communistopoly Cards and Money/Individual Cards/Rebellion Cards/Bad Papers.png",
+    "Chris Personal/Comopoly/Communistopoly Cards and Money/Individual Cards/Rations Cards/Nuclear Disaster.png",
+    "Chris Personal/Comopoly/Communistopoly Cards and Money/Individual Cards/Rations Cards/Missing.png",
+    "Chris Personal/Comopoly/Communistopoly Cards and Money/Individual Cards/Rations Cards/GOGF Rations.png",
+    "Chris Personal/Comopoly/Communistopoly Cards and Money/Individual Cards/Rebellion Cards",
+    "Chris Personal/Comopoly/Communistopoly Cards and Money/Individual Cards/Rations Cards",
+    "Chris Personal/Comopoly/Communistopoly Cards and Money/Individual Cards",
+    "Chris Personal/Comopoly/Communistopoly Cards and Money",
+    "Chris Personal/Comopoly/Communistopoly Cards and Money-20230815T105122Z-001 (2)/Communistopoly Cards and Money",
+    "Chris Personal/Comopoly/Communistopoly Cards and Money-20230815T105122Z-001 (2)",
+    "Chris Personal/Comopoly/Communistopoly Cards and Money-20230815T105122Z-001/Communistopoly Cards and Money/Individual Cards/Rebellion Cards",
+    "Chris Personal/Comopoly/Communistopoly Cards and Money-20230815T105122Z-001/Communistopoly Cards and Money/Individual Cards/Rations Cards",
+    "Chris Personal/Comopoly/Communistopoly Cards and Money-20230815T105122Z-001/Communistopoly Cards and Money/Individual Cards",
+    "Chris Personal/Comopoly/Communistopoly Cards and Money-20230815T105122Z-001/Communistopoly Cards and Money",
+    "Journal/2023-08-15.md",
+    "Chris Personal/BloeddrukLog.md",
+    "Chris Personal/BuyList.md",
+    "Chris Personal/Chris and the theory of Self-determination.md",
+    "Chris Personal/Chris Stack.md",
+    "Chris Personal/ENECO.md",
+    "Chris Personal/GithubPages - PortFolio.md",
+    "Chris Personal/Personal Email.md",
+    "Chris Personal/Plan Chris; The Mission of a lifetime.md",
+    "Chris Personal/problems of Chris.md",
+    "Chris Personal/Smart Goals Chris.md",
+    "Chris Personal/Strenght of ENFP-T.md",
+    "Chris Personal/To Do.md",
+    "Chris Personal/Virtual machine Ubunuti.md",
+    "Untitled.canvas"
   ]
 }
