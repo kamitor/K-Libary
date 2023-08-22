@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "817d8934de7720e1",
+        "id": "502d5d562b02fca8",
         "type": "tabs",
         "children": [
           {
-            "id": "7609fad6cfd9e8d9",
+            "id": "6d1ff1b4860c0712",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -16,19 +16,97 @@
             }
           },
           {
-            "id": "d46d85b2195358ba",
+            "id": "9048c82b010c9958",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "This is a Test .md.md",
+                "file": "OGSM model.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "1d9fb3fd7bb5edd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2023-07-31.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3f561af3651a5fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Feedback Whitepaper.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8f6639f55a47986",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2023-07-31.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee8061616b02415c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vacture Text Adviseur digitaal weerbaarheid.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a29eaee13b8fb0c8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ff65e4005d558729",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Github Plan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c63c09a3d541d2ed",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -57,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "backup",
+                "query": "github plan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "This is a Test .md.md",
+                "file": "Obsidian Github Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "This is a Test .md.md",
+                "file": "Obsidian Github Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "This is a Test .md.md"
+                "file": "Obsidian Github Plan.md"
               }
             }
           },
@@ -173,16 +251,31 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-memos:Memos": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "obsidian-memos:Memos": false
     }
   },
-  "active": "d46d85b2195358ba",
+  "active": "ff65e4005d558729",
   "lastOpenFiles": [
+    "Journal/2023-08-22.md",
+    "Talk with Shayan.md",
+    "Obsidian Github Plan.md",
+    "Journal/2023-08-21.md",
+    "Journal/2023-07-31.md",
+    "MotivatieBrief.md",
+    "Vacture Text Adviseur digitaal weerbaarheid.md",
+    "Feedback Whitepaper.md",
+    "Tonomy/Links Tonomy.md",
+    "Journal/2023-07-27.md",
+    "Tonomy/Tonomy Package.md",
+    "Journal/2023-07-26.md",
+    "Trommel Project.md",
+    "OGSM model.md",
+    "Journal/2023-07-25.md",
+    "Chris & AHDH.md",
+    "To Do 25 Juli 2023.md",
     "This is a Test .md.md",
     "Journal/2023-07-24.md",
-    "Obsidian Github Plan.md",
-    "Tonomy/Tonomy Package.md",
     "Journal/2023-05-20.md",
     "Tonomy/Pitches/Tonomy - ID Pitch.md",
     "Journal/2023-05-17.md",
@@ -190,21 +283,6 @@
     "Potions to be Created with Jug.md",
     "Current Traps.md",
     "DND/ErwinCampaign/Campaign log.md",
-    "Journal/2023-05-15.md",
-    "Tonomy/Pitches/Tonomy Supplychain Email.md",
-    "Tonomy/Pitches/Tonomy Supplychain.md",
-    "Tonomy/Pitches/Tonomy + Civic.md",
-    "DND/Fraz-Urb'lu party.md",
-    "DND/Evil Tree/herbalist handbook.md",
-    "DND/Evil Tree/herbs in the twilight forest.md",
-    "DND/Evil Tree/Twilight Forest.md",
-    "DND/Evil Tree/twilight Circle.md",
-    "DND/Evil Tree/Traps DnD Session Tree.md",
-    "DND/Evil Tree/Temple of Graz'zt chamber of sacrafice.md",
-    "DND/Evil Tree/temple of graz'zt 4th chamber of inner sanctum.md",
-    "DND/Evil Tree/temple of graz'zt 3rd chamber of pleasure.md",
-    "DND/Evil Tree/Temple of Graz'tz First Chamber Grand Hall.md",
-    "DND/Evil Tree/Malgorth.md",
     "DND/NPC HUNTING PARTY",
     "DND/Evil Tree",
     "DND/ErwinCampaign",
