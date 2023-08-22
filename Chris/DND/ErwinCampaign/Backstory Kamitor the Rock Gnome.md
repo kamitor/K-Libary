@@ -3,7 +3,7 @@ quickshare-date: 2023-04-21 17:47:25
 quickshare-url: "https://noteshare.space/note/clgqq6962868801pjl4lrvnl0#ATcaQWTJ4/1+3c9WHb6Cu/aMXrUrSNhV7sf8oHp9fCg"
 ---
 ## Backstory Kamitor the Rock Gnome
-
+[[Rock Gnome - Kamitor]]
 Kamitor grew up in a small community of gnomes who lived in rocky hills and mountains. Being a Rock Gnome, he learned the art of tinkering and invention from a young age and was fascinated by the mechanics of the world around him.
 
 Tragedy struck Kamitor early in his life when a violent rockslide destroyed their community, leaving him as the sole survivor. As a young gnome, he was forced to flee for his life, scrambling over rubble and dodging falling boulders. He survived by being trapped in a small pocket of rocks, while he heard his family suffer in the distance. After days of digging, he managed to dig himself out, but he was not able to save his family. This haunts Kamitor to this day, and makes him claustrophobic when confined in small spaces.
