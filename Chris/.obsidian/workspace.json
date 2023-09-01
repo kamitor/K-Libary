@@ -89,6 +89,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Journal/2023-08-25.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "172fa91f6a9f6013",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2023-08-31.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0cf2740756968391",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Obsidian Github Plan.md",
                 "mode": "source",
                 "source": false
@@ -106,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -135,7 +159,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "github plan",
+                "query": "obsi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,7 +184,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -255,8 +280,17 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "ff65e4005d558729",
+  "active": "0cf2740756968391",
   "lastOpenFiles": [
+    "DND/ErwinCampaign/Campaign log Kamitor rock Gnome.md",
+    "DND/ErwinCampaign/Rock Gnome - Kamitor.md",
+    "Journal/2023-09-01.md",
+    "DND/ErwinCampaign/Kamitor's Mount.md",
+    "Journal/2023-08-28.md",
+    "Journal/2023-08-31.md",
+    "Obsidian Github Plan.md",
+    "Esengo Meet for Jack.md",
+    "Journal/2023-08-25.md",
     "esengo Grant Opportunities.md",
     "Reactive Leds.md",
     "Raspberry Zero - lyr.md",
@@ -270,12 +304,9 @@
     "Journal/2023-08-02.md",
     "Glasses.md",
     "Esengo Grant Work;.md",
-    "DND/ErwinCampaign/Rock Gnome - Kamitor.md",
-    "DND/ErwinCampaign/Kamitor's Mount.md",
     "DND/ErwinCampaign/Kamitor Rock gnome Gold log.md",
     "DND/ErwinCampaign/Items Kamitor The Rock Gnome.md",
     "DND/ErwinCampaign/Current Traps Kamitor Rock Gnome.md",
-    "DND/ErwinCampaign/Campaign log Kamitor rock Gnome.md",
     "Communistopoly - Communist Monopoly.md",
     "Chris Personal/Comopoly/Communistopoly Cards and Money/Rebellion Cards Full Page.png",
     "Chris Personal/Comopoly/Communistopoly Cards and Money/Rations Cards Full Page.png",
@@ -293,12 +324,6 @@
     "Chris Personal/Comopoly/Communistopoly Cards and Money-20230815T105122Z-001.zip",
     "Chris Personal/Comopoly/Communistopoly Cards and Money",
     "Chris Personal/Comopoly",
-    "CV Chris.md",
-    "Brief Friedhelm Fermi Ardi subsidie esengo.md",
-    "AI Generator Audio.md",
-    "Journal/2023-08-22.md",
-    "Talk with Shayan.md",
-    "Obsidian Github Plan.md",
     "DND/NPC HUNTING PARTY",
     "DND/Evil Tree",
     "DND/ErwinCampaign",
