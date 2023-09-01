@@ -2,6 +2,7 @@
 quickshare-date: 2023-05-15 23:17:46
 quickshare-url: "https://noteshare.space/note/clhpcjir0494201pju3lbxb7t#lQk91fAiWyPh8/9G22W8Nml1kHTK/n5bOS0ACu8t2xk"
 ---
+[[Rock Gnome - Kamitor]]
 
 1.  Acidic Potion:
     

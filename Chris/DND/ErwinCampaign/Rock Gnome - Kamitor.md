@@ -17,6 +17,7 @@ Mount: [[Kamitor's Mount]]
 Campaign Log: [[Campaign log Kamitor rock Gnome]]
 Cart improvement [[Cart improvement]]
 Amount of Spell-slots: 
+Potions: [[Kamitor Potions to be Created with Jug]]
 
 # Skills: 
 
