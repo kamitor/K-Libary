@@ -15,8 +15,8 @@ https://www.dndwiki.io/classes/artificer
 Specialization : http://dnd5e.wikidot.com/artificer:battle-smith
 Mount: [[Kamitor's Mount]]
 Campaign Log: [[Campaign log Kamitor rock Gnome]]
-
-Amount of Spellslots: [[]]
+Cart improvement [[Cart improvement]]
+Amount of Spell-slots: 
 
 # Skills: 
 
