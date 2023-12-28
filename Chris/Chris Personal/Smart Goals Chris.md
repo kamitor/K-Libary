@@ -4,6 +4,8 @@ quickshare-url: "https://noteshare.space/note/clg59nbds267201pjsuxxf80f#TXdSlrWs
 ---
 # Period
 
+[[Carreer plan]]
+
 The time period for these goals is three months, which begins April 1st.
 
 ✅ A goal that should be completed by the end of the three months and worked towards iteratively through the three months

@@ -1,4 +1,7 @@
 https://www.youtube.com/watch?v=OM0Xv0eVGtY
+
+[[Carreer plan]]
+
 Are you Lazy? 
 
 How do we fix the motivation bridge?

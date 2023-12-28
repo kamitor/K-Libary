@@ -2,10 +2,13 @@
 quickshare-date: 2023-04-06 17:21:28
 quickshare-url: "https://noteshare.space/note/clg59n3ul266201pjbysx1k4o#zUmLD/wscbXIhOyOygOUnhL7uhjeaiExpVVy6xUKMw0"
 ---
+[[Carreer plan]]
+
 What does Chris want?
 [[Chris and the theory of Self-determination]]
 
 What are chris's Goals:
+[[Smart Goals Chris]]
 https://noteshare.space/note/clg59mvpp265501pjnuuxfd8q#s7Mth4wHFPWDvESEImtnOSXm/YseGPfnkvUNqQ7iQnY
 
 ## What’s the hard part?

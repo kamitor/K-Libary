@@ -2,6 +2,8 @@
 quickshare-date: 2023-04-12 14:32:50
 quickshare-url: "https://noteshare.space/note/clgdo9c6q352501pjoj4fv53t#ss7zU4s+m8ufHhu1MrPDTW+hD0RDKup837Y5LnHBAhA"
 ---
+[[Carreer plan]]
+
 1.  Autonomy: The need to feel in control of one's own life and choices, and to feel like one's actions are self-determined rather than imposed by others.
     
 2.  Competence: The need to feel effective and capable in one's own pursuits, and to feel like one is making progress toward meaningful goals.
