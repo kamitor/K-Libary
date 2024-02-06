@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e8edf13d986bf089",
+        "id": "d594de49d728b0d1",
         "type": "tabs",
         "children": [
           {
-            "id": "f6d6dcc966e63ba5",
+            "id": "026249f842dcf69e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chris/Tonomy/VR Tonomy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "389348ec516d5d95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "Chris/Tonomy/TonomyLab/Tonomy Lab.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "lab ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chris/Tonomy/VR Tonomy.md",
+                "file": "Chris/Tonomy/TonomyLab/Tonomy Lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chris/Tonomy/VR Tonomy.md",
+                "file": "Chris/Tonomy/TonomyLab/Tonomy Lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chris/Tonomy/VR Tonomy.md"
+                "file": "Chris/Tonomy/TonomyLab/Tonomy Lab.md"
               }
             }
           }
@@ -158,29 +146,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6d6dcc966e63ba5",
+  "active": "026249f842dcf69e",
   "lastOpenFiles": [
-    "action plan VCR.md",
+    "Chris/Tonomy/Pitches/30 seconds pitch.md",
+    "Chris/Tonomy/Agile workshop/Agile Workshop.md",
+    "Chris/Tonomy/Clients/Adri Wiesman.md",
+    "Chris/Tonomy/Pitches/30 Second Pitch.md",
     "Untitled.md",
+    "Chris/Fork/Current VR Fork Room.md",
+    "Chris/Journal/ADHD.md",
+    "Chris/Journal/2023-05-08.md",
+    "Chris/Journal/2023-03-20.md",
+    "Chris/Journal/2023-01-28.md",
+    "Chris/Journal/2023-01-27.md",
+    "Chris/Tonomy/Tonomy sales Pipeline.md",
     "Chris/Tonomy/VR Tonomy.md",
+    "Chris/To Do 25 Juli 2023.md",
+    "README.md",
+    "CCC.md",
+    "action plan VCR.md",
+    "Windesheim/1. Location Research and Selection.md",
     "MgFrames/Online research.md",
     "DnD",
-    "Windesheim/1. Location Research and Selection.md",
     "Windesheim/Communication plan.md",
     "Windesheim/Meeting VCR.md",
     "Windesheim/Why a Open Source Lab.md",
-    "Chris/Journal/2023-01-27.md",
     "Chris/Tonomy/TonomyLab/Beergame/Beergame Central.md",
     "Chris/Vacture Text Adviseur digitaal weerbaarheid.md",
     "Chris/Trommel Project.md",
-    "Chris/To Do 25 Juli 2023.md",
-    "Chris/Talk with Shayan.md",
-    "Chris/Reactive Leds.md",
-    "Chris/Raspberry Zero - lyr.md",
-    "Chris/Obsidian Github Plan.md",
-    "Chris/MotivatieBrief.md",
-    "Chris/Communistopoly - Communist Monopoly.md",
-    "Chris/AI Generator Audio.md",
-    "CCC.md"
+    "Chris/Talk with Shayan.md"
   ]
 }
