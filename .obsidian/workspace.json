@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chris/DND/ErwinCampaign/Rock Gnome - Kamitor.md",
+                "file": "Chris/DND/Evil Tree/chronomicles of the elvish kingdoms.md",
                 "mode": "source",
                 "source": false
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chris/DND/ErwinCampaign/Rock Gnome - Kamitor.md",
+                "file": "Chris/DND/Evil Tree/chronomicles of the elvish kingdoms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chris/DND/ErwinCampaign/Rock Gnome - Kamitor.md",
+                "file": "Chris/DND/Evil Tree/chronomicles of the elvish kingdoms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chris/DND/ErwinCampaign/Rock Gnome - Kamitor.md"
+                "file": "Chris/DND/Evil Tree/chronomicles of the elvish kingdoms.md"
               }
             }
           }
@@ -256,11 +256,14 @@
   "active": "413081f43804dede",
   "lastOpenFiles": [
     "Chris/DND/ErwinCampaign/Current Traps Kamitor Rock Gnome.md",
+    "Chris/DND/ErwinCampaign/Cart improvement.md",
+    "Chris/DND/ErwinCampaign/Campaign log Kamitor rock Gnome.md",
+    "Chris/DND/ErwinCampaign/Backstory Kamitor the Rock Gnome.md",
+    "Chris/DND/ErwinCampaign/Rock Gnome - Kamitor.md",
     "Chris/DND/ErwinCampaign/Items Kamitor The Rock Gnome.md",
     "Chris/DND/ErwinCampaign/Kamitor Potions to be Created with Jug.md",
     "Chris/DND/ErwinCampaign/Kamitor Rock gnome Gold log.md",
     "Chris/DND/ErwinCampaign/Kamitor's Mount.md",
-    "Chris/DND/ErwinCampaign/Rock Gnome - Kamitor.md",
     "Untitled 2.md",
     "sadq8yh.md",
     "Chris/DND/NPC HUNTING PARTY/Inquisitor Gavriel.md",
@@ -278,9 +281,6 @@
     "Chris/DND/Evil Tree/DnD Graz'tz rituals.md",
     "Chris/DND/Evil Tree/cult of Graz'zt.md",
     "Chris/DND/Evil Tree/Creatures Forrest.md",
-    "Chris/DND/Evil Tree/chronomicles of the elvish kingdoms.md",
-    "Tokenomics.md",
-    "Untitled 1.md",
     "DnD"
   ]
 }
