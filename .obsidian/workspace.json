@@ -95,7 +95,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chris/DND/Evil Tree/chronomicles of the elvish kingdoms.md",
+                "file": "action plan VCR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "104ca5976cf8526b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "action plan VCR.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -192,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chris/DND/Evil Tree/chronomicles of the elvish kingdoms.md",
+                "file": "action plan VCR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chris/DND/Evil Tree/chronomicles of the elvish kingdoms.md",
+                "file": "action plan VCR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chris/DND/Evil Tree/chronomicles of the elvish kingdoms.md"
+                "file": "action plan VCR.md"
               }
             }
           }
@@ -253,8 +265,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "413081f43804dede",
+  "active": "104ca5976cf8526b",
   "lastOpenFiles": [
+    "PI Projects/Pi Projects.md",
+    "action plan VCR.md",
+    "PI Projects",
+    "Chris/DND/Evil Tree/chronomicles of the elvish kingdoms.md",
     "Chris/DND/ErwinCampaign/Current Traps Kamitor Rock Gnome.md",
     "Chris/DND/ErwinCampaign/Cart improvement.md",
     "Chris/DND/ErwinCampaign/Campaign log Kamitor rock Gnome.md",
@@ -278,9 +294,6 @@
     "Chris/DND/Evil Tree/Embrald Claw Agents.md",
     "Chris/DND/Evil Tree/Elves living in the forest.md",
     "Chris/DND/Evil Tree/Dungeons and dragons Session Tree.md",
-    "Chris/DND/Evil Tree/DnD Graz'tz rituals.md",
-    "Chris/DND/Evil Tree/cult of Graz'zt.md",
-    "Chris/DND/Evil Tree/Creatures Forrest.md",
     "DnD"
   ]
 }
