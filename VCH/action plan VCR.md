@@ -11,6 +11,19 @@ Run Ollama in a Python Application;
 Use Notes to create JSOn message
 
 
+https://dev.to/jayantaadhikary/using-the-ollama-api-to-run-llms-and-generate-responses-locally-18b7
+
+
+Things to install:
+```
+curl -fsSL https://ollama.com/install.sh | sh
+```
+
+
+pip install -qU langchain-anthropic
+
+
+
 
 # Things to learn
 

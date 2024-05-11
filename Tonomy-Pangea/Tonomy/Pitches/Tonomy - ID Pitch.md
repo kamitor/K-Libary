@@ -3,7 +3,7 @@ Impact. Startups that focus on this will be able to raise money a lot easier.
 ✅ Team. Take care of your colleagues, and make sure everyone is happy and focused!  
 ✅ Cost-Effectiveness. Have a hard look at where you can cut costs, and spend money more efficiently.  
 ✅ Adapting to tough times. Yes, the investment environment is difficult, but keep experimenting, networking and pitching. Spend less time planning, and more time doing.
- [[Tonomy/Clients/Martin]]
+ [[Martin]]
 Parts
 Who are we
 Problem
