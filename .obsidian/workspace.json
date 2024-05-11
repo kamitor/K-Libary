@@ -78,6 +78,18 @@
             }
           },
           {
+            "id": "ab352cf160166b1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chris/MullVad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "838978427ef82057",
             "type": "leaf",
             "state": {
@@ -102,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -168,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VCH/action plan VCR.md",
+                "file": "DND/Prayers of Gratz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VCH/action plan VCR.md",
+                "file": "DND/Prayers of Gratz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VCH/action plan VCR.md"
+                "file": "DND/Prayers of Gratz.md"
               }
             }
           }
@@ -229,8 +241,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "413081f43804dede",
+  "active": "40b2e9d65007b5c5",
   "lastOpenFiles": [
+    "Chris/MullVad.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Chris/Templates/Untitled 2.md",
+    "VCH/action plan VCR.md",
     "2024-05-11.md",
     "Chris/Journal/2023-01-08.md",
     "Chris/Journal/2023-01-07.md",
@@ -239,7 +256,6 @@
     "Chris/Journal/2023-02-06.md",
     "Chris/Journal/2023-03-23.md",
     "Chris/Journal/2023-03-24.md",
-    "Untitled.md",
     "Chris/Journal/2023-04-09 To Do.md",
     "Chris/Journal/Wagtail.md",
     "Chris/Journal/Problemen Kirsten.md",
@@ -253,10 +269,6 @@
     "Chris/Chris Personal/To Do.md",
     "Chris/3DPrinten/Machines Techinc 3d Printing.md",
     "Chris/Chris Personal/Glasses.md",
-    "Chris/Chris Personal/GithubPages - PortFolio.md",
-    "Chris/Chris Personal/CV tools.md",
-    "Chris/Chris Personal/ENECO.md",
-    "Chris/Chris Personal/Comopoly/Communistopoly - Communist Monopoly.md",
     "VCH",
     "Tonomy-Pangea",
     "PI Projects",
