@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VCH/Michiel Feedback Log.md",
+                "file": "VCH/5-12-2024 Log Chris.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VCH/Michiel Feedback Log.md",
+                "file": "VCH/5-12-2024 Log Chris.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VCH/Michiel Feedback Log.md",
+                "file": "VCH/5-12-2024 Log Chris.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VCH/Michiel Feedback Log.md"
+                "file": "VCH/5-12-2024 Log Chris.md"
               }
             }
           }
@@ -148,9 +148,13 @@
   },
   "active": "c250f414c37e22ee",
   "lastOpenFiles": [
+    "VCH/miserables_simplified.json",
+    "VCH/action plan VCH.md",
+    "VCH/5-12-2024 Log Chris.md",
+    "VCH/Untitled.md",
+    "VCH/Michiel Feedback Log.md",
     "VCH/Machines For learning Operations.md",
     "VCH/Data and Data Sources.md",
-    "VCH/Michiel Feedback Log.md",
     "VCH/Pasted image 20240512104003.png",
     "VCH/VCH prompts.md",
     "2024-05-11.md",
@@ -159,8 +163,6 @@
     "Windesheim/Meeting VCR.md",
     "Windesheim/Why a Open Source Lab.md",
     "Windesheim/Communication plan.md",
-    "VCH/action plan VCH.md",
-    "VCH/5-12-2024 Log Chris.md",
     "Chris/MullVad.md",
     "DnD/Fraz-Urb'lu party.md",
     "Chris/To Do 25 Juli 2023.md",
@@ -174,7 +176,6 @@
     "DnD/Evil Tree/Twilight Forest.md",
     "DnD/Evil Tree/twilight Circle.md",
     "DnD/Evil Tree/Traps DnD Session Tree.md",
-    "DnD/Evil Tree/the founding of the evlish kingdom.md",
     "DnD/Evil Tree",
     "VCH",
     "Tonomy-Pangea/Tonomy/TonomyLab/Research",
