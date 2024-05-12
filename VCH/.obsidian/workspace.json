@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VCH prompts.md",
+                "file": "5-12-2024 Log Chris.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VCH prompts.md",
+                "file": "5-12-2024 Log Chris.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VCH prompts.md",
+                "file": "5-12-2024 Log Chris.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VCH prompts.md"
+                "file": "5-12-2024 Log Chris.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15fbcb7baebebb1e",
+  "active": "7736ad004b67b62c",
   "lastOpenFiles": [
+    "VCH prompts.md",
     "action plan VCH.md",
     "5-12-2024 Log Chris.md",
     "miserables_simplified.json",
