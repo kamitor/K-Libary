@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VCH/5-12-2024 Log Chris.md",
+                "file": "VCH/VCH prompts.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VCH/5-12-2024 Log Chris.md",
+                "file": "VCH/VCH prompts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VCH/5-12-2024 Log Chris.md",
+                "file": "VCH/VCH prompts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VCH/5-12-2024 Log Chris.md"
+                "file": "VCH/VCH prompts.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "c250f414c37e22ee",
   "lastOpenFiles": [
+    "VCH/5-12-2024 Log Chris.md",
     "VCH/miserables_simplified.json",
     "VCH/action plan VCH.md",
-    "VCH/5-12-2024 Log Chris.md",
     "VCH/Untitled.md",
     "VCH/Michiel Feedback Log.md",
     "VCH/Machines For learning Operations.md",
@@ -183,7 +183,6 @@
     "Tonomy-Pangea/Tonomy/TonomyLab/Beergame",
     "Tonomy-Pangea/Tonomy/Scripts/Ansible",
     "Tonomy-Pangea/Tonomy/TonomyLab",
-    "Tonomy-Pangea/Tonomy/Supplychain",
-    "Tonomy-Pangea/Tonomy/Students"
+    "Tonomy-Pangea/Tonomy/Supplychain"
   ]
 }

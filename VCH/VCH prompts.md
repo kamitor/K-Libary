@@ -281,3 +281,22 @@ Create a JSON file to model the supply chain network for a multinational electro
   
 
 Ensure each node and link captures essential elements of the supply chain, focusing on the main logistic routes and key suppliers to provide a clear view of the network's operational flow.
+
+
+## Prompt 5
+Create a JSON file to model the supply chain network for a multinational electronics company. The JSON structure should mimic the given example precisely, with `nodes` representing various entities such as suppliers, factories, warehouses, and retail stores, and `links` indicating the flow of goods between them. Each node should include attributes `id` and `group`, where `id` is a unique identifier like 'Supplier A' or 'Factory B', and `group` is an integer categorizing the entity type (e.g., 1 for suppliers, 2 for factories). The links should detail connections with attributes `source`, `target`, and `value`, where `source` and `target` are the `id`s of the nodes connected, and `value` quantifies the volume of goods transferred on a scale of 1-10.
+
+Utilize all available company data, including internal logistics reports, shipment records, and strategic distribution plans, to determine the nodes and links. Populate the JSON structure with detailed, accurate information based on this comprehensive data analysis. Here's the structure you should follow:
+
+```json
+{
+  "nodes": [
+    { "id": "Supplier A", "group": 1 },
+    { "id": "Factory B", "group": 2 },
+    ...
+  ],
+  "links": [
+    { "source": "Supplier A", "target": "Factory B", "value": 8 },
+    ...
+  ]
+}
