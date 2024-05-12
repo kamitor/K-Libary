@@ -208,3 +208,76 @@ nodes: Array(77) [
 
 I want you to now play the role of a Supplychain Data analyst; We will be making a new JSON file to create a supplier relationship mapping analysis around company [ ]. Let's Work step by step;
 First start with Unilever and it's direct subsidiaries; Output in JSON only, and make sure we can add more later. 
+
+
+Prompt Engineering: 
+"Create a JSON file to model the supply chain network for a multinational electronics company, encompassing all major components such as suppliers, factories, warehouses, and retail stores. Each entity in the network should be represented as a node with attributes id (the entity's name or location, e.g., 'Supplier A', 'Factory B', 'Warehouse C', 'Retail Store D') and group (categorizing the type of entity, such as 'Supplier', 'Factory', 'Warehouse', 'Retailer'). The relationships between these entities, or links, should specify the source (origin node id), target (destination node id), and value (indicating the volume of goods transferred on a scale of 1-10). Use the company's internal logistics data and distribution strategy reports to determine these connections, ensuring to reflect key shipping routes, major suppliers, and critical distribution points accurately. An example node might be { "id": "Factory B", "group": "Factory" }, and a corresponding link might be { "source": "Supplier A", "target": "Factory B", "value": 8 }. This JSON should provide a clear and actionable map of the company's logistical framework and major transaction pathways."
+
+
+
+Output a JSON file only; 
+Create a JSON file to model the supply chain network for company X. The JSON structure should precisely mimic the given example, with nodes representing various entities such as suppliers, factories, warehouses, and retail stores, and links indicating the flow of goods between them. Each node should include attributes id and group, where id is a unique identifier like 'Supplier A' or 'Factory B', and group is an integer categorizing the entity type (e.g., 1 for suppliers, 2 for factories). The links should detail connections with attributes source, target, and value, where source and target are the ids of the nodes connected, and value quantifies the volume of goods transferred on a scale of 1-10. Use the company's supply chain data to fill in this structure accurately. Here's the structure to follow:
+
+
+{
+  "nodes": [
+    { "id": "Supplier A", "group": 1 },
+    { "id": "Factory B", "group": 2 },
+    ...
+  ],
+  "links": [
+    { "source": "Supplier A", "target": "Factory B", "value": 8 },
+    ...
+  ]
+
+Ensure each node and link captures essential elements of the supply chain, focusing on the main logistic routes and key suppliers to provide a clear view of the network's operational flow.
+
+
+
+
+##  prompt 4
+
+﻿Create a JSON file to model the supply chain network for a multinational electronics company. The JSON structure should mimic the given example precisely, with `nodes` representing various entities such as suppliers, factories, warehouses, and retail stores, and `links` indicating the flow of goods between them. Each node should include attributes `id` and `group`, where `id` is a unique identifier like 'Supplier A' or 'Factory B', and `group` is an integer categorizing the entity type (e.g., 1 for suppliers, 2 for factories). The links should detail connections with attributes `source`, `target`, and `value`, where `source` and `target` are the `id`s of the nodes connected, and `value` quantifies the volume of goods transferred on a scale of 1-10.
+
+Utilize all available company data, including internal logistics reports, shipment records, and strategic distribution plans, to determine the nodes and links. Populate the JSON structure with detailed, accurate information based on this comprehensive data analysis. Here's the structure you should follow:
+
+json
+{
+  "nodes": [
+    { "id": "Supplier A", "group": 1 },
+    { "id": "Factory B", "group": 2 },
+    ...
+  ],
+  "links": [
+    { "source": "Supplier A", "target": "Factory B", "value": 8 },
+    ...
+  ]
+}
+
+Create a JSON file to model the supply chain network for a multinational electronics company. The JSON structure should precisely mimic the given example, with nodes representing various entities such as suppliers, factories, warehouses, and retail stores, and links indicating the flow of goods between them. Each node should include attributes id and group, where id is a unique identifier like 'Supplier A' or 'Factory B', and group is an integer categorizing the entity type (e.g., 1 for suppliers, 2 for factories). The links should detail connections with attributes source, target, and value, where source and target are the ids of the nodes connected, and value quantifies the volume of goods transferred on a scale of 1-10. Use the company's supply chain data to fill in this structure accurately. Here's the structure to follow:
+
+ 
+
+{
+
+"nodes": [
+
+{ "id": "Supplier A", "group": 1 },
+
+{ "id": "Factory B", "group": 2 },
+
+...
+
+],
+
+"links": [
+
+{ "source": "Supplier A", "target": "Factory B", "value": 8 },
+
+...
+
+]
+
+  
+
+Ensure each node and link captures essential elements of the supply chain, focusing on the main logistic routes and key suppliers to provide a clear view of the network's operational flow.

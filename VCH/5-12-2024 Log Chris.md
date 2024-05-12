@@ -29,9 +29,16 @@ Intergrate ChatGpt4 into Obserable directly, then move it with the Json Model;
 Then afterwards I can try to move it to a local AI.
 
 
-- [ ] Add API Key to ObserableHQ to change the JSON there
-- [ ] Check Update on Local 
+- [x] Add API Key to ObserableHQ to change the JSON  
+	- [x] FAIL: Requires Credits and Credit Card; Don't have that.
+- [x] Check Update on Local 
+Success! Local updated to reflect online Changes.
 
+Next up:  
+Build File with Web based interface; 
+Building on the excising file; 
+
+Need to schedule Sprint Demo with Bart and Michiel, maxime etc.
 
 
 Download movie voor Kirsten:

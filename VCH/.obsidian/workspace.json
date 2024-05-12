@@ -11,8 +11,12 @@
             "id": "7736ad004b67b62c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "VCH prompts.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "VCH prompts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "VCH prompts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "VCH prompts.md"
+              }
             }
           }
         ]
@@ -138,6 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7736ad004b67b62c",
-  "lastOpenFiles": []
+  "active": "15fbcb7baebebb1e",
+  "lastOpenFiles": [
+    "action plan VCH.md",
+    "5-12-2024 Log Chris.md",
+    "miserables_simplified.json",
+    "Untitled.md",
+    "Pasted image 20240512104003.png"
+  ]
 }
