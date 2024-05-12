@@ -6,6 +6,21 @@
 - Add some data to it
 - Do it again, make it visual
 
+Log Chris:
+[[5-12-2024 Log Chris]]
+
+Machines:
+
+[[Machines For learning Operations]]
+Obserable login is Github.
+
+[[Michiel Feedback Log]]
+
+ObJective
+
+"supply chain network analysis" or "supplier relationship mapping."
+
+![[Pasted image 20240512104003.png]]
 Version 2: 
 Run Ollama in a Python Application;
 Use Notes to create JSOn message
@@ -28,9 +43,24 @@ sk-ant-api03-8KOf7oieIuIbzc2kjnv-VJGvtkA0F5eb0_vhC7RhPtcsnlMnROT1cJyqYCysZvzkhXQ
 
 # Things to learn
 
-https://www.udemy.com/course/smarter-web-scraping-with-python-ai/
+## Obserable
+
+
+### Ai - Python
+Free Udemy Course on Pyuthon Cli Chat using Langchain
 https://www.udemy.com/course/python-cli-chat-using-langchain/
+## API - Python
+Free Udemy Course on using Python Api Scraping. 
+https://www.udemy.com/course/smarter-web-scraping-with-python-ai/
+## Python 
+
+## LangChain
+
+
 https://www.udemy.com/course/learn-langchain-build-llm-applications-with-langchain/
+
+
+
 
 
 https://m.youtube.com/watch?v=V1Mz8gMBDMo
