@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VCH/VCH prompts.md",
+                "file": "VCH/AI - Practise.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VCH/VCH prompts.md",
+                "file": "VCH/AI - Practise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VCH/VCH prompts.md",
+                "file": "VCH/AI - Practise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VCH/VCH prompts.md"
+                "file": "VCH/AI - Practise.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "c250f414c37e22ee",
   "lastOpenFiles": [
+    "VCH/VCH prompts.md",
+    "VCH/AI - Practise.md",
     "VCH/5-12-2024 Log Chris.md",
     "VCH/miserables_simplified.json",
     "VCH/action plan VCH.md",
@@ -156,7 +158,6 @@
     "VCH/Machines For learning Operations.md",
     "VCH/Data and Data Sources.md",
     "VCH/Pasted image 20240512104003.png",
-    "VCH/VCH prompts.md",
     "2024-05-11.md",
     "Untitled 1.md",
     "Windesheim/1. Location Research and Selection.md",
