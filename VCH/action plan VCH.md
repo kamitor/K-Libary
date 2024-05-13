@@ -1,4 +1,6 @@
 
+https://discourse.nodered.org/t/function-node-and-complete-flow-for-the-llama-ai-text-generator-model/77767
+
 - Download the observable framework again get it running 
 - Make sure the Value chain demo is running
 - Download the Visual Version of the AI
@@ -10,9 +12,23 @@ Log Chris:
 [[5-12-2024 Log Chris]]
 
 Machines:
-
+[[Data and Data Sources]]
 [[Machines For learning Operations]]
 Obserable login is Github.
+[[Modelfiles]]
+
+NodeJS;
+https://www.ergin-d.com/blog/nodejs-run-local-llm
+https://github.com/ollama/ollama-js
+pi; 
+https://www.youtube.com/@kevinmcaleer28
+
+pytorch
+https://www.jeremymorgan.com/tutorials/python-tutorials/how-to-get-started-pytorch/
+
+AutoGen:
+https://www.youtube.com/watch?v=dUxEMmvOHuo
+
 
 [[Michiel Feedback Log]]
 

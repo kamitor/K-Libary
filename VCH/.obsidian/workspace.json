@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VCH prompts.md",
+                "file": "Data and Data Sources.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VCH prompts.md",
+                "file": "Data and Data Sources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VCH prompts.md",
+                "file": "Data and Data Sources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VCH prompts.md"
+                "file": "Data and Data Sources.md"
               }
             }
           }
@@ -146,12 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15fbcb7baebebb1e",
+  "active": "7736ad004b67b62c",
   "lastOpenFiles": [
     "action plan VCH.md",
+    "Data and Data Sources.md",
+    "Modelfiles.md",
+    "Untitled.md",
+    "VCR.md",
+    "VCH prompts.md",
+    "Machines For learning Operations.md",
     "5-12-2024 Log Chris.md",
     "miserables_simplified.json",
-    "Untitled.md",
     "Pasted image 20240512104003.png"
   ]
 }
