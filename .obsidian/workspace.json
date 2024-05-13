@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VCH/AI - Practise.md",
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VCH/AI - Practise.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VCH/AI - Practise.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VCH/AI - Practise.md"
+                "file": "Untitled 1.md"
               }
             }
           }
@@ -146,14 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c250f414c37e22ee",
+  "active": "e42749ea03b43a1a",
   "lastOpenFiles": [
-    "VCH/Modelfiles.md",
+    "VCH/action plan VCH.md",
+    "VCH/5-12-2024 Log Chris.md",
     "VCH/VCH prompts.md",
     "VCH/AI - Practise.md",
-    "VCH/5-12-2024 Log Chris.md",
+    "VCH/Modelfiles.md",
     "VCH/miserables_simplified.json",
-    "VCH/action plan VCH.md",
     "VCH/Untitled.md",
     "VCH/Michiel Feedback Log.md",
     "VCH/Machines For learning Operations.md",

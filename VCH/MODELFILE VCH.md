@@ -1,11 +1,4 @@
 [[action plan VCH]]
-
-
-https://blog.codegpt.co/create-your-own-and-custom-copilot-in-vscode-with-ollama-and-codegpt-736277a60298
-
-
-ollama pull codellama
-
 ```
 FROM codellama  
   
@@ -33,14 +26,4 @@ TEMPLATE = (
 SYSTEM You are expert Code Assistant
 ```
 
-ollama create codegpt-codellama -f ./Codellama/Modelfile
 
-download extension
-**CodeGPT**
-load it with the codegpt-codellama
-
-[[action plan VCH]]
-
-![[Pasted image 20240513121451.png]]
-
-https://medium.com/rahasak/build-rag-application-using-a-llm-running-on-local-computer-with-ollama-and-llamaindex-97703153db20

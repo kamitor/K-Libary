@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data and Data Sources.md",
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1e3efdbd814525f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data and Data Sources.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data and Data Sources.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data and Data Sources.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -146,13 +159,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7736ad004b67b62c",
+  "active": "c1e3efdbd814525f",
   "lastOpenFiles": [
     "action plan VCH.md",
-    "Data and Data Sources.md",
+    "NodeUI.md",
     "Modelfiles.md",
     "Untitled.md",
+    "MODELFILE VCH.md",
+    "Pasted image 20240513121451.png",
+    "6-12-2024 Log Chris.md",
+    "Elevator Pitches VCH.md",
+    "Michiel Feedback Log.md",
     "VCR.md",
+    "Data and Data Sources.md",
     "VCH prompts.md",
     "Machines For learning Operations.md",
     "5-12-2024 Log Chris.md",

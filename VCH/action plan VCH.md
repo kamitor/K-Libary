@@ -1,4 +1,17 @@
 
+next steps:
+
+- [ ] Embed the AI into a program
+- [ ] Ask the AI to only produce JSON formats in the format we want. 
+- [ ] Learn more about modeling
+- [ ] create Several one minute pitches [[Elevator Pitches VCH]]
+- [ ] Create Linkedin Profile VCH [[Linkedin Profile VCH]]
+- [ ] Create Student Applications VCH [[Recruiting Personell VCH]]
+- [ ] Load minimistic NodeJS UI [[NodeUI]]
+- [ ] 
+
+
+
 https://discourse.nodered.org/t/function-node-and-complete-flow-for-the-llama-ai-text-generator-model/77767
 
 - Download the observable framework again get it running 
@@ -10,6 +23,7 @@ https://discourse.nodered.org/t/function-node-and-complete-flow-for-the-llama-ai
 
 Log Chris:
 [[5-12-2024 Log Chris]]
+[[6-12-2024 Log Chris]]
 
 Machines:
 [[Data and Data Sources]]
