@@ -10,7 +10,8 @@ next steps:
 - [ ] Load minimistic NodeJS UI [[NodeUI]]
 - [ ] 
 
-
+https://www.youtube.com/watch?v=crBOcNi97k0
+https://github.com/edub008/ollama-nodejs
 
 https://discourse.nodered.org/t/function-node-and-complete-flow-for-the-llama-ai-text-generator-model/77767
 

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "action plan VCH.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "action plan VCH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "action plan VCH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "action plan VCH.md"
               }
             }
           }
@@ -161,17 +161,18 @@
   },
   "active": "c1e3efdbd814525f",
   "lastOpenFiles": [
+    "AI - Practise.md",
+    "Data and Data Sources.md",
+    "Modelfiles.md",
+    "VCR.md",
+    "Untitled.md",
     "action plan VCH.md",
     "NodeUI.md",
-    "Modelfiles.md",
-    "Untitled.md",
     "MODELFILE VCH.md",
     "Pasted image 20240513121451.png",
     "6-12-2024 Log Chris.md",
     "Elevator Pitches VCH.md",
     "Michiel Feedback Log.md",
-    "VCR.md",
-    "Data and Data Sources.md",
     "VCH prompts.md",
     "Machines For learning Operations.md",
     "5-12-2024 Log Chris.md",
