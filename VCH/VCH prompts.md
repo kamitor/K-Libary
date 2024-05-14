@@ -334,7 +334,9 @@ Initialize the JSON structure with a basic example of nodes and links to demonst
 
 ### Incremental Data Population for Supply Chain Network JSON
 
-**Objective**: Populate the existing JSON structure for the supply chain network of company X, with actionable data. Each iteration will focus on a specific part of the supply chain as requested.
+**.
+   - `target`: The `id` of the destination node.
+   - `value`: A quantified measure of the transaction or interaction volume, derived from the data analyzed.Objective**: Populate the existing JSON structure for the supply chain network of company X, with actionable data. Each iteration will focus on a specific part of the supply chain as requested.
 
 We will start with []
 Raw Material Sourcing, Manufacturing, Distribution, Warehousing, Retail, Wholesale, Customer Service, Returns, Technology, Research and Development, Regulatory, Compliance.
@@ -347,9 +349,7 @@ Raw Material Sourcing, Manufacturing, Distribution, Warehousing, Retail, Wholesa
    - `group`: An integer reflecting the type of entity (e.g., 1 for suppliers, 2 for factories).
 
 4. **Update Links**: For each significant relationship or transaction identified between entities in the chosen segment, add a link. Each link should include:
-   - `source`: The `id` of the originating node.
-   - `target`: The `id` of the destination node.
-   - `value`: A quantified measure of the transaction or interaction volume, derived from the data analyzed.
+   - `source`: The `id` of the originating node
 
 5. **Provide Examples and Instructions**:
    - If focusing on **Supplier Interactions**, analyze which suppliers deliver critical components, their delivery frequencies, and volumes.
@@ -376,6 +376,8 @@ Assume the focus is on 'Distribution Logistics'. The update would involve nodes 
 
 
 ### Incremental Update for Supply Chain Network JSON
+
+ONLY OUTPUT THE JSON FILE, do not explain your actions, to not give nice coments, only output the JSON file as instructed below;
 
 **Objective**: Update the existing JSON structure for the supply chain network of company `[X]`, specifically focusing on the segment: `[Supply Chain Segment]`. This task involves adding or updating nodes and links in the JSON file to reflect recent data and interactions within this part of the supply chain.
 
