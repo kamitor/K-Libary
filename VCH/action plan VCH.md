@@ -23,8 +23,8 @@ https://discourse.nodered.org/t/function-node-and-complete-flow-for-the-llama-ai
 - Do it again, make it visual
 
 Log Chris:
-[[5-12-2024 Log Chris]]
-[[6-12-2024 Log Chris]]
+[[12-04-2024 Log Chris]]
+[[13-5-2024 Log Chris]]
 
 Machines:
 [[Data and Data Sources]]

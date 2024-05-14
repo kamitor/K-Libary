@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "19ae027103fdcb21",
+        "id": "191a8c20e4d34c90",
         "type": "tabs",
         "children": [
           {
-            "id": "7736ad004b67b62c",
+            "id": "7be580770f060ba2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1e3efdbd814525f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "action plan VCH.md",
+                "file": "MODELFILE VCH 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "action plan VCH.md",
+                "file": "MODELFILE VCH 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "action plan VCH.md",
+                "file": "MODELFILE VCH 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "action plan VCH.md"
+                "file": "MODELFILE VCH 1.md"
               }
             }
           }
@@ -159,24 +146,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1e3efdbd814525f",
+  "active": "7be580770f060ba2",
   "lastOpenFiles": [
+    "Modelfiles.md",
+    "NodeUI.md",
+    "Pasted image 20240512104003.png",
+    "Pasted image 20240513121451.png",
+    "setup Big AI.md",
+    "Untitled.md",
+    "VCH prompts.md",
+    "VCR.md",
+    "message.md",
+    "MODELFILE VCH 1.md",
+    "14-04-2024 Log Chris.md",
+    "Advanced Prompt.md",
+    "ModelFile Examples.md",
+    "Michiel Feedback Log.md",
+    "MODELFILE VCH.md",
+    "13-5-2024 Log Chris.md",
+    "12-04-2024 Log Chris.md",
+    "Codelama",
+    "agents copy",
+    "agents",
+    "modelfile4",
+    "modelfile3 copy",
+    "modelfile3",
+    "action plan VCH.md",
+    "test.json",
+    "miserables2.json",
+    "VCHtest",
     "AI - Practise.md",
     "Data and Data Sources.md",
-    "Modelfiles.md",
-    "VCR.md",
-    "Untitled.md",
-    "action plan VCH.md",
-    "NodeUI.md",
-    "MODELFILE VCH.md",
-    "Pasted image 20240513121451.png",
-    "6-12-2024 Log Chris.md",
     "Elevator Pitches VCH.md",
-    "Michiel Feedback Log.md",
-    "VCH prompts.md",
     "Machines For learning Operations.md",
-    "5-12-2024 Log Chris.md",
-    "miserables_simplified.json",
-    "Pasted image 20240512104003.png"
+    "miserables_simplified.json"
   ]
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Chris/MullVad.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mull",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Chris/MullVad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Chris/MullVad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "Chris/MullVad.md"
               }
             }
           }
@@ -146,8 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e42749ea03b43a1a",
+  "active": "c250f414c37e22ee",
   "lastOpenFiles": [
+    "VCH/message.md",
+    "Untitled 1.md",
     "VCH/action plan VCH.md",
     "VCH/5-12-2024 Log Chris.md",
     "VCH/VCH prompts.md",
@@ -160,7 +163,6 @@
     "VCH/Data and Data Sources.md",
     "VCH/Pasted image 20240512104003.png",
     "2024-05-11.md",
-    "Untitled 1.md",
     "Windesheim/1. Location Research and Selection.md",
     "Windesheim/Meeting VCR.md",
     "Windesheim/Why a Open Source Lab.md",
@@ -176,7 +178,6 @@
     "DnD/NPC HUNTING PARTY/Archer Valen.md",
     "DnD/NPC HUNTING PARTY",
     "DnD/Evil Tree/Twilight Forest.md",
-    "DnD/Evil Tree/twilight Circle.md",
     "DnD/Evil Tree",
     "VCH",
     "Tonomy-Pangea/Tonomy/TonomyLab/Research",
