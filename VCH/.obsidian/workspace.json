@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6e4d54c932606ff1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LogFile 16-5-2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modelfiles.md",
+                "file": "LogFile 16-5-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Modelfiles.md",
+                "file": "LogFile 16-5-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modelfiles.md"
+                "file": "LogFile 16-5-2024.md"
               }
             }
           }
@@ -159,8 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1e3efdbd814525f",
+  "active": "6e4d54c932606ff1",
   "lastOpenFiles": [
+    "Modelfiles.md",
+    "LogFile 16-5-2024.md",
     "TreeOfThoughts.ipynb",
     "ActivationFunctions.ipynb",
     "PsudoCode",
@@ -177,7 +191,6 @@
     "12-04-2024 Log Chris.md",
     "AI - Practise.md",
     "Data and Data Sources.md",
-    "Modelfiles.md",
     "VCR.md",
     "Untitled.md",
     "NodeUI.md",
