@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LogFile 16-5-2024.md",
+                "file": "Elevator Pitches VCH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3fe00dc3865a329",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LogFile 16-5-2024.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LogFile 16-5-2024.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LogFile 16-5-2024.md"
+                "file": "Untitled 1.md"
               }
             }
           }
@@ -171,10 +183,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e4d54c932606ff1",
+  "active": "15fbcb7baebebb1e",
   "lastOpenFiles": [
-    "Modelfiles.md",
+    "Elevator Pitches VCH.md",
+    "Untitled 1.md",
     "LogFile 16-5-2024.md",
+    "Modelfiles.md",
     "TreeOfThoughts.ipynb",
     "ActivationFunctions.ipynb",
     "PsudoCode",
@@ -197,7 +211,6 @@
     "MODELFILE VCH.md",
     "Pasted image 20240513121451.png",
     "6-12-2024 Log Chris.md",
-    "Elevator Pitches VCH.md",
     "Michiel Feedback Log.md",
     "VCH prompts.md",
     "Machines For learning Operations.md",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/Evil Tree/Creatures Forrest.md",
+                "file": "FutureSchool/Value Propositions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND/Evil Tree/Creatures Forrest.md",
+                "file": "FutureSchool/Value Propositions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DND/Evil Tree/Creatures Forrest.md",
+                "file": "FutureSchool/Value Propositions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND/Evil Tree/Creatures Forrest.md"
+                "file": "FutureSchool/Value Propositions.md"
               }
             }
           }
@@ -146,8 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e42749ea03b43a1a",
+  "active": "d283c7276f0b6610",
   "lastOpenFiles": [
+    "FutureSchool/Market Segmentation.md",
+    "FutureSchool/Channels.md",
+    "FutureSchool/Break-even Analysis.md",
+    "2024-05-11.md",
+    "DND/Evil Tree/Creatures Forrest.md",
     "DND/Untitled.md",
     "DND/DnD Roman Campaign/Attack Combo's.md",
     "DND/DnD Roman Campaign/Untitled.md",
@@ -157,7 +162,6 @@
     "DND/DnD Roman Campaign",
     "DND/Untitled",
     "Untitled.md",
-    "DND/Evil Tree/Creatures Forrest.md",
     "Chris/MullVad.md",
     "VCH/message.md",
     "Untitled 1.md",
@@ -172,12 +176,8 @@
     "VCH/Machines For learning Operations.md",
     "VCH/Data and Data Sources.md",
     "VCH/Pasted image 20240512104003.png",
-    "2024-05-11.md",
     "Windesheim/1. Location Research and Selection.md",
     "Windesheim/Meeting VCR.md",
-    "Windesheim/Why a Open Source Lab.md",
-    "Windesheim/Communication plan.md",
-    "DnD/Fraz-Urb'lu party.md",
     "DnD/NPC HUNTING PARTY",
     "DnD/Evil Tree",
     "VCH",

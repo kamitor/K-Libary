@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD Roman Campaign/Special Animals.md",
+                "file": "Sprites.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DnD Roman Campaign/Special Animals.md",
+                "file": "Sprites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DnD Roman Campaign/Special Animals.md",
+                "file": "Sprites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DnD Roman Campaign/Special Animals.md"
+                "file": "Sprites.md"
               }
             }
           }
@@ -197,10 +197,10 @@
   },
   "active": "cc222b806039747f",
   "lastOpenFiles": [
+    "DnD Roman Campaign/Characters.md",
+    "DnD Roman Campaign/Special Animals.md",
     "Untitled.md",
     "DnD Roman Campaign/Attack Combo's.md",
-    "DnD Roman Campaign/Special Animals.md",
-    "DnD Roman Campaign/Characters.md",
     "DnD Roman Campaign/Campaign Log.md",
     "DnD Roman Campaign"
   ]
