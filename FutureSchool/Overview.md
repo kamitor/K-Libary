@@ -1,11 +1,11 @@
 ## 1. Overview
-- [Executive Summary](Executive%20Summary.md)
+- [Executive Summary](4 questions.md)
 - [Company Description](Company%20Description.md)
 - [Mission and Vision](Mission%20and%20Vision.md)
 - [[wireframe]]
 - 
 ## 2. Business Model Canvas
-- [Key Partners](Key%20Partners.md)
+- [Key Partners](Education-Learning.md)
 - [Key Activities](Key%20Activities.md)
 - [Key Resources](Key%20Resources.md)
 - [Value Propositions](Value%20Propositions.md)
