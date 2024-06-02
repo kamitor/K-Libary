@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FutureSchool/Value Propositions.md",
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad77f52cf84508f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6183ddf1e086ab6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To do list.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FutureSchool/Value Propositions.md",
+                "file": "To do list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FutureSchool/Value Propositions.md",
+                "file": "To do list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FutureSchool/Value Propositions.md"
+                "file": "To do list.md"
               }
             }
           }
@@ -146,8 +171,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d283c7276f0b6610",
+  "active": "e6183ddf1e086ab6",
   "lastOpenFiles": [
+    "Buy List.md",
+    "Idea list.md",
+    "Untitled 1.md",
+    "To do list.md",
+    "FutureSchool/Value Propositions.md",
     "FutureSchool/Market Segmentation.md",
     "FutureSchool/Channels.md",
     "FutureSchool/Break-even Analysis.md",
@@ -161,10 +191,8 @@
     "DND/DnD Roman Campaign/Campaign Log.md",
     "DND/DnD Roman Campaign",
     "DND/Untitled",
-    "Untitled.md",
     "Chris/MullVad.md",
     "VCH/message.md",
-    "Untitled 1.md",
     "VCH/action plan VCH.md",
     "VCH/5-12-2024 Log Chris.md",
     "VCH/VCH prompts.md",
@@ -174,10 +202,7 @@
     "VCH/Untitled.md",
     "VCH/Michiel Feedback Log.md",
     "VCH/Machines For learning Operations.md",
-    "VCH/Data and Data Sources.md",
     "VCH/Pasted image 20240512104003.png",
-    "Windesheim/1. Location Research and Selection.md",
-    "Windesheim/Meeting VCR.md",
     "DnD/NPC HUNTING PARTY",
     "DnD/Evil Tree",
     "VCH",

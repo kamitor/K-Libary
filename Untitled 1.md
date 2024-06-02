@@ -1,7 +1,4 @@
- Gallerij om alle werken zien.
-Planning / Schuler > Inschrijftool
-En een main met het algemene idee > Ter overtuiging.
-(met messchien filmpjes)
+
 
 Cursus Format voor andere mensen. 
 
