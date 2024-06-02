@@ -1,4 +1,7 @@
 - Make folders / Flyers for educational programs > make Automatic Call booking 
-- Cancel Subscription GPT
-- Clear Boxes and Label Boxes; Make sure everthing is labeled.
+- [x] Cancel Subscription 
+- Check on Credit Card from ASN
+- Clear Boxes and Label Boxes; Make sure everthing is labeled. [[Label Boxes Concept]]
+- Discuss inviting Brian
+- Raspad problem reporting
 - 
