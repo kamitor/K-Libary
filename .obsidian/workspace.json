@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To do list.md",
+                "file": "Buy List.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To do list.md",
+                "file": "Buy List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To do list.md",
+                "file": "Buy List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To do list.md"
+                "file": "Buy List.md"
               }
             }
           }
@@ -149,16 +149,17 @@
   "active": "807c8ea0c21fec5e",
   "lastOpenFiles": [
     "Idea list.md",
+    "log Sebastien.md",
+    "Label Boxes Concept.md",
     "Buy List.md",
+    "Blockchain Insurance concept.md",
     "Eisenhower list.md",
     "To do list.md",
+    "System for a chris.md",
     "Chris/Chris Personal/To Do.md",
     "Chris/To Do 25 Juli 2023.md",
-    "log Sebastien.md",
-    "System for a chris.md",
     "Untitled 1.md",
     "FutureSchool/valuechain Hackers.md",
-    "Label Boxes Concept.md",
     "quartotest/Eisenhowermatrix.qmd",
     "quartotest/testfile.qmd",
     "quartotest/Eisenhowermatrix_files/libs/quarto-html/tippy.umd.min.js",
@@ -169,7 +170,6 @@
     "quartotest/Eisenhowermatrix_files/libs/clipboard/clipboard.min.js",
     "quartotest/Eisenhowermatrix_files/libs/quarto-html/anchor.min.js",
     "quartotest/Eisenhowermatrix_files/libs/bootstrap/bootstrap.min.js",
-    "Blockchain Insurance concept.md",
     "2024-05-11.md",
     "FutureSchool/Value Propositions.md",
     "FutureSchool/Market Segmentation.md",
