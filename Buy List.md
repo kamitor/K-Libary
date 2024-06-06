@@ -1,1 +1,4 @@
 - filter voor de droger
+- More Boxes voor sorting
+- USB - HDMI hub
+- 

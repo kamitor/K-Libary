@@ -1,4 +1,7 @@
 - personalized AI - with deep troat microphone
+- Personalized AI for InChange - Make first concept. 
+- Guide for directly working with documents AI system
+- Expand to - do list into proper System [[System for a chris]]
 - Write a proper proposal for the Tonomy Foundation Board 
 - Discuss plan with Kirsten Tonomy Board.
 - Smarty'S workshop rebuild - Supplychain Simulations. 
@@ -7,9 +10,36 @@
 - Coders Testing Application [[CodersTesting application - AI ]]
 - Automatic Booking app -> Recruit Discuss with Sebastian
 -  Gallerij om alle werken zien.
+- AI Company Concept -> Helping with Product Design: Ai Concepts
 Planning / Schuler > Inschrijftool
 En een main met het algemene idee > Ter overtuiging.
 (met messchien filmpjes)
 - Gallery Book website
 - Learn what Sebastien has done, learn his skill. Learn Crew A.I concept.
-- 
+- Research Wagtail [[Wagtail]]
+- Reserach Nextcloud
+- Zenhub
+- CRM
+- Research Open Source Stack Deployer
+- Research open source stack
+- Research on Obsividian
+- Turn on 3d print
+- Turn on Linkedin Helper
+- Migrate To Hubspot
+
+- Finish Whitepaper Africa
+- Clean Room
+- Learn more about Obsidian
+- Send stuff To Maarten
+- Send stuff To Cees Jan
+- Ask Update Jimmy
+- **Check on Stuff for Nia: Done**
+- Grant stuff
+- **Mail Rick & Olaf; Done**
+- Make bill for Miro
+-
+
+
+Done monday:
+Chased up Nia's Device
+Chased up meds
