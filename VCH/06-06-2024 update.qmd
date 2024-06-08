@@ -1,0 +1,165 @@
+---
+title: "VCH update 06/06/2024"
+subtitle: "Update on Sebastien's and Christiaan's Projects"
+author: "Christiaan Verhoef"
+date: "6 Juli"
+format: revealjs
+---
+
+# Agenda
+
+1. Work Sebastien
+2. Contract Sebastien
+3. Work Christiaan
+
+---
+
+
+# Contract Sebastien
+
+- Offer of 25.000 for work till December :> Working on the Prototype and giving support.
+{ Het maken van deze tool, en hem online brengen } (aankomende tijd is dit dan heel hoge commitment)
+{ Eventuele andere A.I Tools }
+{ Dan wanneer de prototype done is, commitment scales back to minimum }
+{ Het geven van uitleg en maintenance op de tool }
+{ Zorgen voor eventuele overdracht }
+{ Lesgeven en tutorials over de tool }
+
+IBAN; BTW nr; ADRES Contact naam, Referentie Nummer; 
+
+
+
+# Work Sebastien
+![](./Output.png)
+
+## Current Goals: Project Launch the A.I.
+
+- [x] First part of the ontology is completed.
+- [x] AI can now make it's own ontology.
+- [x] Started FineTuning the model
+- [x] Autotrain on Huggingface is now running. 
+
+
+First error:
+- The model needs to now be prompted with the ontology and sometimes forget the ontology;
+
+Extracting knowledge from large text documents is not a single step.
+To retrieve valuable information from these a large document or corpus needs to be chuncked and the task needs to be subdivided in multiple sub-tasks.
+
+{mermaid}
+```
+graph LR
+    Chunks ---> Preprocess ---> Extract
+    Extract ---> Validate ---> Ingest
+```
+## Chunks : Chunkin a large document in pieces
+
+This step will take a large document and chuck it in parts using some overlap to ensure that paragraph that would be cut in their middle are also present in the next chunk of text.
+
+## Preprocess : Remove the grease
+
+This step will tranform the larger text chunks to sentences that are focused on facts, named entities, take-aways and essential points removing the grease of what is not relevant to the extraction process, but present in the textual form of the document.
+
+[Pre-Process Prompt](./Prompt_Extraction_preprocess.qmd)
+
+## Extract : Get tuples of knowledge from the text
+
+With the reduced text now the model will attempt to make tuples and nodes according to the ontology. Here too `divide and conquer` will be used, in order to reduce hallucianations it's better to invoke the model multiple times using a subset of the ontlogy each time. This will yield better results and avoid the model to try to makeup nodes for each class of the ontology.
+
+[Extracting Prompt](./Prompt_Extraction.qmd)
+
+## Validate : Check facts, deduplicate ensure proper syntax
+
+Now we have extracted nodes, we will invoke antoher model to do a quality check on each node, by adding a rag on the actual document this step is able to search back in the document and coroborate different pieces of the document to make the most complete set of tuples and nodes, suppressing normally any hallucinated facts that might have produced by previous steps.
+
+[Validation Prompt](./Prompt_Extraction_validation.qmd)
+
+## Ingest : Incorporate tuples and nodes to the global graph
+
+With our appured nodes being now filtered and checked for quality we will now query the graph for each of them and add them if they are not a perfect duplicate and reject the nodes that might be too similar using cosine similarity and clustering techniques
+
+## Chunks : Chunkin a large document in pieces
+
+This step will take a large document and chuck it in parts using some overlap to ensure that paragraph that would be cut in their middle are also present in the next chunk of text.
+
+
+
+## Solutions
+Solution:
+- Train the LLM to learn the ontology so that it no longer comes into the context window. 
+
+## Timeline
+
+We willen nu dat hij de "structuur" gaat herkennen, en deze gaan maken. 
+
+Alles in stukjes moeten halen om
+Context windows didnt work > Hele PDF in de LLM gooien en hopen dat hij iets doet geeft 4 resultaten, was niet een goed idee
+Grote Rags bouwen heeft niet geholpen > 
+We kunnen niet indexeren in een RAG om daar vragen niet.
+
+Techniek heeft moeten aanpassen > Overdreven keer over dezelfde informatie gaan. Niet brute forcen op queries;;
+Om zeker te weten of we alle informatie uit te lezen, is het bladzijde voor bladzijde het uit te lezen.
+
+Met 70B model want anderen doen niks deftig;
+
+Nu is het de bedoeling: 
+- Finetune van het LLM model : > LLM te leren wat een Supplychain management Mapping; correct is; Welke termen zijn wel correct, welke niet. 
+Hij moet nu van De SCM - ontologie leren;
+We moeten hem kunnen vragen: "is een wedstrijd deel van de ontologie" - nee dat is niet intressant. 
+
+Klein stukje in de Node Code 
+
+## Project 2: [Organisation]
+- **Objective:** Brief description of the project's objective.
+- **Current Status:** Current progress and milestones achieved.
+- **Next Steps:** Planned activities and timelines.
+
+---
+
+# Contract Sebastien
+
+
+
+## Contract Overview
+- **Contract Type:** [Type of contract]
+- **Duration:** [Contract duration]
+- **Key Terms:** [Brief description of key terms]
+
+## Current Status
+- **Progress:** [Current progress on contract deliverables]
+- **Issues/Risks:** [Any issues or risks identified]
+
+## Next Steps
+- **Actions Required:** [Actions needed to move forward]
+- **Deadlines:** [Upcoming deadlines]
+
+---
+
+# Work Christiaan
+
+## Next Sprint (part 2)
+
+- **Sprint Goal 2**: the Setup of a community: Getting ready to recieve the students, setting up alliances and connections
+- [ ] Updating the Contacts sheet, making it into markdown so that everyone can read ORGANISATION
+- [ ] Creating a digital environment and bringint it online. INFRASTUCTURE
+- [ ] Setup of Linkedin Page, LEGITEMACY
+- [ ] Texten voor studenten, onboarding process for students. RECRUITMENT
+- [ ] Organisation Starting: Creation of a B.V or Non-Profit? LEGITEMACY
+- [ ] Setup Recruitment process for students, CRM. RECRUITMENT
+- [ ] Creation of Online content for students to learn, LMS
+- [ ] Filing for Public Grants, FUNDING
+- [ ] Going to Several Events on behalf of Value Chain Hackers, NETWORKING
+- [ ] Setup of Social Media for Value Chain Hackers, OUTREACH
+- [ ] Making a website , Getting a domain, INFRASTRUCTURE
+
+# Questions & Discussion
+
+- **Questions:** Open the floor for questions.
+- **Discussion Points:** Highlight any key discussion points or decisions needed.
+
+---
+
+# Conclusion
+
+- **Summary:** Recap the main points discussed.
+- **Next Meeting:** Schedule or confirm the date for the next update meeting.

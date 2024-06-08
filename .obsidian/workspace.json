@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Buy List.md",
+                "file": "To do list.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65d110229590bad2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Presentation to markdown.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9406fa0e1340ad6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Presentation to markdown.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "e36d2011bafa6764",
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Buy List.md",
+                "file": "Presentation to markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Buy List.md",
+                "file": "Presentation to markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Buy List.md"
+                "file": "Presentation to markdown.md"
               }
             }
           }
@@ -133,8 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,30 +170,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "807c8ea0c21fec5e",
+  "active": "f9406fa0e1340ad6",
   "lastOpenFiles": [
+    "System for a chris.md",
+    "To do list.md",
+    "Presentation to markdown.md",
+    "VCH/06-06-2024 update_files/mediabag",
+    "VCH/Output3.png",
+    "VCH/Output2.png",
+    "VCH/Output.png",
+    "VCH/Output info.png",
+    "VCH/output4.png",
+    "VCH/06-06-2024 update_files/libs/quarto-html/tippy.umd.min.js",
+    "VCH/06-06-2024 update_files/libs/quarto-html/tippy.css",
+    "VCH/06-06-2024 update_files/libs/quarto-html/tabby.min.js",
+    "VCH/06-06-2024 update_files/libs/quarto-html/quarto-syntax-highlighting.css",
+    "VCH/06-06-2024 update_files/libs/quarto-html/quarto-html.min.css",
+    "VCH/06-06-2024 update_files/libs/quarto-html/popper.min.js",
+    "VCH/06-06-2024 update_files/libs/quarto-html/light-border.css",
+    "VCH/06-06-2024 update_files/libs/quarto-html",
+    "VCH/06-06-2024 update_files/libs/clipboard/clipboard.min.js",
+    "VCH/Update voor michiel.md",
     "Idea list.md",
+    "Buy List.md",
     "log Sebastien.md",
     "Label Boxes Concept.md",
-    "Buy List.md",
     "Blockchain Insurance concept.md",
     "Eisenhower list.md",
-    "To do list.md",
-    "System for a chris.md",
     "Chris/Chris Personal/To Do.md",
     "Chris/To Do 25 Juli 2023.md",
     "Untitled 1.md",
     "FutureSchool/valuechain Hackers.md",
-    "quartotest/Eisenhowermatrix.qmd",
-    "quartotest/testfile.qmd",
-    "quartotest/Eisenhowermatrix_files/libs/quarto-html/tippy.umd.min.js",
-    "quartotest/Eisenhowermatrix_files/libs/quarto-html/tippy.css",
-    "quartotest/Eisenhowermatrix_files/libs/quarto-html/quarto.js",
-    "quartotest/Eisenhowermatrix_files/libs/quarto-html/quarto-syntax-highlighting.css",
-    "quartotest/Eisenhowermatrix_files/libs/quarto-html/popper.min.js",
-    "quartotest/Eisenhowermatrix_files/libs/clipboard/clipboard.min.js",
-    "quartotest/Eisenhowermatrix_files/libs/quarto-html/anchor.min.js",
-    "quartotest/Eisenhowermatrix_files/libs/bootstrap/bootstrap.min.js",
     "2024-05-11.md",
     "FutureSchool/Value Propositions.md",
     "FutureSchool/Market Segmentation.md",
@@ -181,9 +212,6 @@
     "DND/DnD Roman Campaign/Untitled.md",
     "DND/DnD Roman Campaign/Special Animals.md",
     "DND/DnD Roman Campaign/Characters.md",
-    "DND/DnD Roman Campaign/Campaign Log.md",
-    "Chris/MullVad.md",
-    "VCH/message.md",
     "VCH/Pasted image 20240512104003.png"
   ]
 }
