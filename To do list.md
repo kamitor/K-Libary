@@ -1,15 +1,9 @@
 - Make folders / Flyers for educational programs > make Automatic Call booking 
-- [x] Cancel Subscription 
-- [x] Loundry small upstairs
-- [x] Clear room 
-- [x] make bed
-- [x] Make a daily Planning
 - [x] Work on Life system [obsidian://open?vault=K-Libary&file=quartotest%2FEisenhowermatrix.html] [FAILURE] 
 - Check on Credit Card from ASN [[Plan Chris; The Mission of a lifetime]]
-- Clear Boxes and Label Boxes; Make sure everthing is labeled. [[Label Boxes Concept]] >> [[new room plan]]
-- Discuss inviting Brian -- > [[new room plan]]
-- Going to Brian to discuss future plans [[new room plan]]
-- Raspad problem reporting
+- Move over to Ubuntu Only: [[Fix old Laptop]]
+- [x] Maak Geld over naar Sebastien
+- [x] Doe je uren voor windesheim
 
 
 VHC
@@ -21,6 +15,7 @@ VHC
 
 Windesheim:
 - Do your hours; 
+- 
 
 VIRIDIS
  - Get access to the architecture of VIRIDIS
@@ -29,7 +24,7 @@ VIRIDIS
 ## TonomyF
 - Print out Chetna Form again, and get ready for mailings
 - Check out the ID Identity Event. 
-- Mail N.Rosie@altra.nl -> Educatie concept
+- 
 
 
 

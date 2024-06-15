@@ -1,5 +1,15 @@
+Idea's are linked to the [[To do list]]
+
 - personalized AI - with deep troat microphone
 - Personalized AI for InChange - Make first concept. 
+- Redo Pangea's Deck
+- Mail N.Rosie@altra.nl -> Educatie concept
+- Clear Boxes and Label Boxes; Make sure everthing is labeled. [[Label Boxes Concept]] >> [[new room plan]]
+- Reinstall Linux Laptop
+-  Discuss inviting Brian -- > [[new room plan]]
+- Going to Brian to discuss future plans [[new room plan]]
+- Raspad problem reporting
+- Reinstall Script for Linux auto install
 - Guide for directly working with documents AI system
 - Expand to - do list into proper System [[System for a chris]]
 - Write a proper proposal for the Tonomy Foundation Board 
