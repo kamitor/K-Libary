@@ -4,10 +4,11 @@
 - Move over to Ubuntu Only: [[Fix old Laptop]]
 - [x] Maak Geld over naar Sebastien
 - [x] Doe je uren voor windesheim
+- [ ] Zoek VerfSpullen En pukkelverf
 
 
 VHC
-- Personalized AI for InChange - Make first concept.
+- Personalized AI for InChange - Make first concept. [Install penpot]
 - Make first pitch concept for VCH tool.
 - Make the work Methodology for VCH. > the open school concept
 - Make the onboarding system for students 

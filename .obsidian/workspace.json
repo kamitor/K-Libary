@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Open Source Tools collection.md",
+                "file": "To do list.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Open Source Tools collection.md",
+                "file": "To do list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Open Source Tools collection.md",
+                "file": "To do list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Open Source Tools collection.md"
+                "file": "To do list.md"
               }
             }
           }
@@ -209,8 +209,12 @@
   },
   "active": "c7040245aca7ad02",
   "lastOpenFiles": [
-    "Movie list.md",
+    "Label Boxes Concept.md",
+    "Done List.md",
+    "Fix old Laptop.md",
+    "Buy List.md",
     "Open Source Tools collection.md",
+    "Movie list.md",
     "To do list.md",
     "Tonomy-Pangea/Tonomy/Ruitenberg Proposal.md",
     "Chris/Chris Personal/Chris Stack.md",
@@ -232,11 +236,7 @@
     "VCH/test.md",
     "VCH/Logboek/13-06-2024 Logboek;.md",
     "log Sebastien.md",
-    "Label Boxes Concept.md",
     "Idea list.md",
-    "System for a chris.md",
-    "14-05-2024 Planning Meeting.md",
-    "VCH/AI - Practise.md",
     "VCH/status.html",
     "VCH/presentation.html",
     "VCH/PowerDynamics.jpg",
