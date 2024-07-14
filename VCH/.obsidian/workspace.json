@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "19ae027103fdcb21",
+        "id": "f28f5527d0619e16",
         "type": "tabs",
         "children": [
           {
-            "id": "7736ad004b67b62c",
+            "id": "152b388882ae957a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1e3efdbd814525f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Modelfiles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e4d54c932606ff1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Elevator Pitches VCH.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3fe00dc3865a329",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
+                "file": "action plan VCH.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "action plan VCH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "action plan VCH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "action plan VCH.md"
               }
             }
           }
@@ -185,10 +148,11 @@
   },
   "active": "15fbcb7baebebb1e",
   "lastOpenFiles": [
+    "Michiel Feedback Log.md",
+    "Modelfiles.md",
     "Elevator Pitches VCH.md",
     "Untitled 1.md",
     "LogFile 16-5-2024.md",
-    "Modelfiles.md",
     "TreeOfThoughts.ipynb",
     "ActivationFunctions.ipynb",
     "PsudoCode",
@@ -211,7 +175,6 @@
     "MODELFILE VCH.md",
     "Pasted image 20240513121451.png",
     "6-12-2024 Log Chris.md",
-    "Michiel Feedback Log.md",
     "VCH prompts.md",
     "Machines For learning Operations.md",
     "5-12-2024 Log Chris.md",

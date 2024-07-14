@@ -3,6 +3,7 @@ Idea's are linked to the [[To do list]]
 - personalized AI - with deep troat microphone
 - Personalized AI for InChange - Make first concept. 
 - Redo Pangea's Deck
+- Birthday Party DnD [[plan Birthday Chris]]
 - Mail N.Rosie@altra.nl -> Educatie concept
 - Clear Boxes and Label Boxes; Make sure everthing is labeled. [[Label Boxes Concept]] >> [[new room plan]]
 - Reinstall Linux Laptop

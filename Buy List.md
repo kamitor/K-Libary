@@ -4,3 +4,5 @@
 - keyboard voor music - launchpad?
 - Standaard pak om te bekleden
 - Standaard trenchcoat om te designen
+- More USB charger -> 1 USB charger Per room
+- 

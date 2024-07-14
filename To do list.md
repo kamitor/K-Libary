@@ -4,7 +4,49 @@
 - Move over to Ubuntu Only: [[Fix old Laptop]]
 - [x] Maak Geld over naar Sebastien
 - [x] Doe je uren voor windesheim
-- [ ] Zoek VerfSpullen En pukkelverf
+- [x] Zoek VerfSpullen En pukkelverf
+- [x] Minimal Website [[VCH Website]]
+- [x] Linkedin Page [[Linkedin Profile VCH]]
+- [x] Value Chain Hacking > Domain
+- [ ] Volgende Fase Van het lab onboarding; Document Building; Flyer? 
+- [ ] Feedback Rea Website VCH [Feedback VCH website 1.0]
+- [ ] [[VCH Website]]
+- [ ] WeekPlanning Maken
+- [ ] Projects to Write on for the Website, Connect to Linkedin Posts
+- [ ] Mail with Michiel voor planning progress;
+- [ ] Chris - Life-story Update
+- [ ] Working on Room, with Brian
+
+- [ ] inrichten -> core van het project is value chain hacking; -> Value chain probleem aanpakken
+
+- [ ] Niet alleen technisch het lab, het is het totaal plaatje
+
+- [ ] op welk value chain probleem gaan ze zich storten?
+
+Product Design [
+
+Gedachtelijn: eerste toepassing kan zijn
+
+Spelers in de game, Chat-GpT Vragen stellen, gevoed met de kennis van de game en de gedachtes erachter. Getrained op de documenten
+
+2> A.I gebruiken op basis van resultaten dat hij komt met tips; Spel Analyse > resultaten > 
+
+3. A.I Teacher ;> Take over the role of the facilitator, Reflection of the results with the group, support for the teacher
+
+4. A.i gebruikt om de andere rollen van het management team, interactief in te vullen. A.I NPC's.
+
+First support the initial project in September; Hou het klein genoeg van het supporten van dit project;
+
+3rd - eerste versie 
+inrichten -> core van het project is value chain hacking; -> Value chain probleem aanpakken
+
+
+
+Niet alleen technisch het lab, het is het totaal plaatje
+
+
+
+op welk value chain probleem gaan ze zich storten?
 
 
 VHC

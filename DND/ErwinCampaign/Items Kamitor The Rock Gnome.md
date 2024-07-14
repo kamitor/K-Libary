@@ -9,6 +9,9 @@ Shortbow x1
 6 x daggers.
 
 
+
+
+
 [**Ra**](https://www.dndbeyond.com/equipment/ram-portable)**[m](https://www.dndbeyond.com/equipment/ram-portable)**[**, Portable (4 gp)**](https://www.dndbeyond.com/equipment/ram-portable) _PHB_
 
 Break down the dungeon door with a +4 bonus to the Strength check. Get your friends to help you for advantage as well! If even all of that fails, _fire bolt_ the door down. If there is [no time constraint](https://tabletopbuilds.com/ability-checks/#Multiple_Checks), this item lets you access doors that are otherwise impossible to breach.

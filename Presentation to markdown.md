@@ -1,5 +1,22 @@
 # Semester Lab Program
 
+
+## Why
+
+
+
+## how
+
+How do we make sure that we get taken serious on our feedback?
+How can we make the students report more often?
+Can we get the teachers that are coaches inside of our project?
+How can we motivate students sufficiently? 
+
+What 
+
+Roman-Greek education inspiration:
+
+
 ## Overview
 
 - **Duration**: 16 weeks

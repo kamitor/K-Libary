@@ -1,5 +1,8 @@
 [
   "qmd-as-md-obsidian",
   "ollama-chat",
-  "ollama"
+  "ollama",
+  "excalibrain",
+  "obsidian-excalidraw-plugin",
+  "dataview"
 ]
