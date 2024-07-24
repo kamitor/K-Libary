@@ -54,21 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "cc222b806039747f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sprites.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sprites.md",
+                "file": "DnD Roman Campaign/Attack Combo's.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sprites.md",
+                "file": "DnD Roman Campaign/Attack Combo's.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sprites.md"
+                "file": "DnD Roman Campaign/Attack Combo's.md"
               }
             }
           }
@@ -195,8 +183,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc222b806039747f",
+  "active": "ae38992bf35fd018",
   "lastOpenFiles": [
+    "ErwinCampaign/Kamitor's Mount.md",
+    "ErwinCampaign/Rock Gnome - Kamitor.md",
+    "ErwinCampaign/Items Kamitor The Rock Gnome.md",
+    "ErwinCampaign/Kamitor Potions to be Created with Jug.md",
+    "ErwinCampaign/Kamitor Rock gnome Gold log.md",
+    "Sprites.md",
     "DnD Roman Campaign/Characters.md",
     "DnD Roman Campaign/Special Animals.md",
     "Untitled.md",

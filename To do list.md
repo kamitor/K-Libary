@@ -8,14 +8,16 @@
 - [x] Minimal Website [[VCH Website]]
 - [x] Linkedin Page [[Linkedin Profile VCH]]
 - [x] Value Chain Hacking > Domain
-- [ ] Volgende Fase Van het lab onboarding; Document Building; Flyer? 
-- [ ] Feedback Rea Website VCH [Feedback VCH website 1.0]
+- [x] Volgende Fase Van het lab onboarding; Document Building; Flyer? 
+- [x] Feedback Rea Website VCH [Feedback VCH website 1.0]
 - [ ] [[VCH Website]]
-- [ ] WeekPlanning Maken
+- [x] WeekPlanning Maken
 - [ ] Projects to Write on for the Website, Connect to Linkedin Posts
-- [ ] Mail with Michiel voor planning progress;
+- [x] Mail with Michiel voor planning progress;
 - [ ] Chris - Life-story Update
 - [ ] Working on Room, with Brian
+- [ ] Prepare Product Design workshop voor michiel [[Design thinking workshop]] [[Agile Workshop]] [[Agile Workshop Source]] [[Product Design workshop]]
+- [ ] 
 
 - [ ] inrichten -> core van het project is value chain hacking; -> Value chain probleem aanpakken
 

@@ -1,11 +1,7 @@
 
-Birthday for cool ppl that don't want to play DnD;
-@ Baarn
-- Mama, papa, Zusjes, Gonny, Puppies monique, Cenne? Melissa kim, etc; 
-- 
-
-
 DnD Adventure centered around Chris
+2 GM's that can play, with an concept around my Life; You play pre-made characters that are all Chris's interpetation of you, as a DND Character. 
+
 
 Guest check list:
 
@@ -48,7 +44,8 @@ What is needed:
 Priority:
 - Ask for GM's
 - First invites (what to do, when, why, RSVP)
-- 
+
+8_ 
 
 Overall Campaign plan:
 
