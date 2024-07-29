@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,7 +147,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1a42c4f0a1f33412",
+  "active": "e42749ea03b43a1a",
   "lastOpenFiles": [
     "Viridis Call.md",
     "mirror frame Magic Frames.md",
