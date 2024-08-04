@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "78b3a9f80f258a2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6606aeb6de4e9211",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c26e8e9ea3b80fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DND/ErwinCampaign/Rock Gnome - Kamitor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f53e78ec794e5945",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2600576eac4ea31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "054a1bd01932f0b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3e1ca162a8b386bd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "273e0d4f1d0caf7a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "2e40e480fe85e20e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 260.5
+  },
+  "right": {
+    "id": "5b642cdf6afdae80",
+    "type": "split",
+    "children": [
+      {
+        "id": "4912fdb3c7458ae8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e6f14c9fcff1903",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DND/ErwinCampaign/Rock Gnome - Kamitor.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "497b3b75f861c32c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DND/ErwinCampaign/Rock Gnome - Kamitor.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "483b8cc43c46134a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3d853a14d9e2c8d1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DND/ErwinCampaign/Rock Gnome - Kamitor.md"
+              }
+            }
+          },
+          {
+            "id": "6666f6aed59f6d1f",
+            "type": "leaf",
+            "state": {
+              "type": "QUICKSHARE_SIDE_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-memos:Memos": false
+    }
+  },
+  "active": "8c26e8e9ea3b80fe",
+  "lastOpenFiles": [
+    "DND/ErwinCampaign/Kamitor's Mount.md",
+    "DND/ErwinCampaign/Rock Gnome - Kamitor.md",
+    "DND/ErwinCampaign/Campaign log Kamitor rock Gnome.md",
+    "DND/ErwinCampaign/Cart improvement.md",
+    "DND/ErwinCampaign/Backstory Kamitor the Rock Gnome.md",
+    "Obsidian Github Plan.md",
+    "Communistopoly - Communist Monopoly.md",
+    "AI Generator Audio.md",
+    "Reactive Leds.md",
+    "Vacture Text Adviseur digitaal weerbaarheid.md",
+    "Trommel Project.md",
+    "To Do 25 Juli 2023.md",
+    "Talk with Shayan.md",
+    "Tonomy/This is a Test .md.md",
+    "DND/ErwinCampaign/Kamitor Potions to be Created with Jug.md",
+    "Chris Personal/Chris & AHDH.md",
+    "Glasses.md",
+    "Esengo/OGSM model.md",
+    "Tonomy/Feedback Whitepaper.md",
+    "Esengo/esengo Grant Opportunities.md",
+    "Esengo/Brief Friedhelm Fermi Ardi subsidie esengo.md",
+    "Chris Personal/CV Chris.md",
+    "Esengo",
+    "DND/Demon packs.md",
+    "DND/ErwinCampaign/Items Kamitor The Rock Gnome.md",
+    "DND/ErwinCampaign/Kamitor Rock gnome Gold log.md",
+    "Journal/2023-09-01.md",
+    "Chris Personal/Comopoly/Communistopoly Cards and Money/Rebellion Cards Full Page.png",
+    "Chris Personal/Comopoly/Communistopoly Cards and Money/Rations Cards Full Page.png",
+    "Chris Personal/Comopoly/Communistopoly Cards and Money/Money Full Page.png",
+    "Chris Personal/Comopoly/Communistopoly Cards and Money/Individual Cards/Rebellion Cards/clothing.png",
+    "Chris Personal/Comopoly/Communistopoly Cards and Money/Individual Cards/Rebellion Cards/Vandal.png",
+    "Chris Personal/Comopoly/Communistopoly Cards and Money/Individual Cards/Rebellion Cards/Speak against the state.png",
+    "Chris Personal/Comopoly/Communistopoly Cards and Money/Individual Cards/Rebellion Cards/Nothing to see here.png",
+    "Chris Personal/Comopoly/Communistopoly Cards and Money/Individual Cards/Rebellion Cards/Go to gulag.png",
+    "Chris Personal/Comopoly/Communistopoly Cards and Money/Individual Cards/Rebellion Cards/Get out of gulag free.png",
+    "Chris Personal/Comopoly/Communistopoly Cards and Money/Individual Cards/Rebellion Cards/Bad Papers.png",
+    "Chris Personal/Comopoly/Communistopoly Cards and Money/Individual Cards/Rebellion Cards",
+    "Chris Personal/Comopoly/Communistopoly Cards and Money/Individual Cards/Rations Cards",
+    "Chris Personal/Comopoly/Communistopoly Cards and Money/Individual Cards",
+    "Chris Personal/Comopoly/Communistopoly Cards and Money-20230815T105122Z-001.zip",
+    "Chris Personal/Comopoly/Communistopoly Cards and Money",
+    "Chris Personal/Comopoly",
+    "DND/NPC HUNTING PARTY",
+    "DND/Evil Tree",
+    "DND/ErwinCampaign",
+    "Untitled.canvas"
+  ]
+}

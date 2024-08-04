@@ -1,0 +1,5 @@
+- Klas flow momenten (De klas programeren): Eerst gaan we dit doen, Dan gaan we dat doen, en dan pas weer je laptop open.
+- Op het bord moet er staan waar je nu bent.
+- Lesvorm: Nabouwen: Maar leren ze? Denken ze zelf? 
+- 99 tips en tricks voor leraren
+- 

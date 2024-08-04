@@ -1,0 +1,43 @@
+
+---
+title: "Eisenhower's Matrix in R using Quarto"
+---
+``` {r setup} 
+if (!require(ggplot2)) { install.packages("ggplot2") }
+```
+
+```{r} 
+library(ggplot2)
+
+df <- data.frame( Importance = rep(c("High", "Low"), each = 2), Urgency = rep(c("High", "Low"), times = 2), Category = c("Do", "Decide", "Delegate", "Delete"), text = c("Tasks you will do immediately.", "Tasks you will schedule to do later.", "Tasks you will delegate to someone else.", "Tasks you won't do.") )
+
+task_list <- list(
+  task1 = list(Task_Name = "Email Marketing Campaign", Importance = 5, Urgency = 4),
+  task2 = list(Task_Name = "Website Update", Importance = 3, Urgency = 3),
+  task3 = list(Task_Name = "New Product Launch", Importance = 4, Urgency = 5),
+  task4 = list(Task_Name = "Team Meeting", Importance = 2, Urgency = 1),
+  task5 = list(Task_Name = "Client Follow-up", Importance = 4, Urgency = 4)
+)
+
+tasks <- data.frame(
+  Task = c("Task 1", "Task 2", "Task 3", "Task 4", "Task 5"),
+  Importance = c(5, 4, 3, 2, 1),
+  Urgency = c(5, 4, 3, 2, 1)
+)
+
+plot <- ggplot(tasks, aes(x = Urgency, y = Importance, label = Task)) +
+  geom_point(aes(size = 3), color = "red") +
+  geom_text(hjust = -0.2) +
+  scale_x_continuous(breaks = seq(1, 5, by = 1)) +
+  scale_y_continuous(breaks = seq(1, 5, by = 1)) +
+  labs(x = "Urgency", y = "Importance") +
+  ggtitle("Eisenhower's Matrix") +
+  theme_minimal()
+
+
+plot <- ggplot(df, aes(x = Urgency, y = Importance, label = Category)) + geom_tile(aes(fill = Category), colour = "black") + geom_text(size = 6, fontface = "bold", colour = "white") + theme_minimal() + theme(legend.position = "none", axis.title.x = element_blank(),axis.title.y = element_blank()) + scale_fill_brewer(palette = "Set1") + coord_fixed() + scale_x_discrete(limits = c("High", "Low")) + scale_y_discrete(limits = c("High", "Low")) + annotate("text", x = c("High", "Low", "High", "Low"), y = c("High", "High", "Low", "Low"), label = df$text, size = 3)
+
+print(plot)
+```
+
+

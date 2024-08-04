@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "48b707f3aafef231",
+    "type": "split",
+    "children": [
+      {
+        "id": "f28f5527d0619e16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "152b388882ae957a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "action plan VCH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c9556b9df456110f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c65cd6e622908e94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15fbcb7baebebb1e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fb38a69cb1dc9d03",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0ccc8a74dd5db531",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6fbcfb014ca009c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "097a2fc40661b7f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2f2e881eb8be52e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "action plan VCH.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "266603791661c61f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "action plan VCH.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3abbcc124dc71843",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "df9ba1ec0baf68b3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "action plan VCH.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "15fbcb7baebebb1e",
+  "lastOpenFiles": [
+    "Michiel Feedback Log.md",
+    "Modelfiles.md",
+    "Elevator Pitches VCH.md",
+    "Untitled 1.md",
+    "LogFile 16-5-2024.md",
+    "TreeOfThoughts.ipynb",
+    "ActivationFunctions.ipynb",
+    "PsudoCode",
+    "ModelFile Examples.md",
+    "14-04-2024 Log Chris.md",
+    "action plan VCH.md",
+    "setup Big AI.md",
+    "message.md",
+    "agents",
+    "MODELFILE VCH 1.md",
+    "Codelama",
+    "Advanced Prompt.md",
+    "13-5-2024 Log Chris.md",
+    "12-04-2024 Log Chris.md",
+    "AI - Practise.md",
+    "Data and Data Sources.md",
+    "VCR.md",
+    "Untitled.md",
+    "NodeUI.md",
+    "MODELFILE VCH.md",
+    "Pasted image 20240513121451.png",
+    "6-12-2024 Log Chris.md",
+    "VCH prompts.md",
+    "Machines For learning Operations.md",
+    "5-12-2024 Log Chris.md",
+    "miserables_simplified.json",
+    "Pasted image 20240512104003.png"
+  ]
+}

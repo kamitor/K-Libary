@@ -1,0 +1,43 @@
+version: '3.5'
+
+services:
+  server:
+    image: cortezaproject/corteza:${VERSION}
+    restart: always
+    env_file: [ .env ]
+    depends_on: [ db ]
+    networks: [ proxy, internal ]
+    # Uncomment to use local fs for data persistence
+    volumes:
+      - "serverdata:/data"
+    environment:
+      # This two are needed only if you are using NginX Lets-Encrypt companion
+      # (see docs.cortezaproject.org for details)
+      # VIRTUAL_HOST helps NginX proxy route traffic for specific virtual host to this container
+      VIRTUAL_HOST:     ${DOMAIN}
+      # LETSENCRYPT_HOST helps NginX LE companion pull and configure SSL certificates for your domain
+      LETSENCRYPT_HOST: ${DOMAIN}
+
+  db:
+    # MySQL Database
+    # See https://hub.docker.com/r/percona/percona-server for details
+    image: percona:8.0
+    restart: always
+    volumes:
+      - "dbdata:/var/lib/mysql"
+    environment:
+      MYSQL_DATABASE: dbname
+      MYSQL_USER:     dbuser
+      MYSQL_PASSWORD: dbpass
+      # get the random generated password by running: docker-compose logs db | grep "GENERATED ROOT PASSWORD"
+      MYSQL_RANDOM_ROOT_PASSWORD: random
+    healthcheck: { test: ["CMD", "mysqladmin" ,"ping", "-h", "localhost"], timeout: 20s, retries: 10 }
+    networks: [ internal ]
+
+networks:
+  internal: {}
+  proxy: { external: true }
+
+volumes:
+  dbdata:
+  serverdata:
