@@ -1,5 +1,28 @@
-Idea's are linked to the [[To do list]]
+Idea's are linked to the [[To do list]] 
+- Make folders / Flyers for educational programs > make Automatic Call booking 
+VHC
+- Personalized AI for InChange - Make first concept. [Install penpot]
+- Make first pitch concept for VCH tool.
+- Make the work Methodology for VCH. > the open school concept
+- Make the onboarding system for students 
+- Followup with Sebastien on current Progress and to tasks: [[log Sebastien]]
+- Checkup with Maxime what I had to do? 
 
+Project : VCH 
+- [ ] Make a one Page Presentation slide for VCH
+- [ ] Make a pitch for VCH - Help Sebastien
+- [ ] 
+Project: Inchange A.I
+
+
+
+- [ ] Check on Credit Card from ASN [[Plan Chris; The Mission of a lifetime]]
+- [ ] Projects to Write on for the Website, Connect to Linkedin Posts
+- [ ] Chris - Life-story Update
+- [ ] Working on Room, with Brian
+- [ ] inrichten -> core van het project is value chain hacking; -> Value chain probleem aanpakken
+- [ ] Niet alleen technisch het lab, het is het totaal plaatje
+- [ ] op welk value chain probleem gaan ze zich storten?
 - personalized AI - with deep troat microphone
 - Magic Frames : Make mirror frame [[mirror frame Magic Frames]]
 - Personalized AI for InChange - Make first concept. 

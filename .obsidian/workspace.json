@@ -18,8 +18,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bf0323f880be73f6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-08-01 10.07.51.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "b39a1c25da3b1333",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "log Sebastien.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "14-05-2024 Planning Meeting.md",
+                "file": "log Sebastien.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "14-05-2024 Planning Meeting.md",
+                "file": "log Sebastien.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "14-05-2024 Planning Meeting.md"
+                "file": "log Sebastien.md"
               }
             }
           }
@@ -147,23 +170,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2dd221a39a6883f8",
+  "active": "b39a1c25da3b1333",
   "lastOpenFiles": [
-    "Viridis Plan.md",
+    "mirror frame Magic Frames.md",
+    "Movie list.md",
+    "Open Source Tools collection.md",
+    "Pasted Image 20240627124957_491.png",
+    "plan Birthday Chris.md",
+    "Presentation to markdown.md",
     "Viridis Call.md",
-    "To do list.md",
-    "Idea list.md",
-    "VCH Onboarding questions.md",
+    "Viridis Plan.md",
+    "Viridis WP.md",
     "System for a chris.md",
     "Song Windesheim Strategic day.md",
-    "Presentation to markdown.md",
+    "VCH Onboarding questions.md",
+    "Idea list.md",
+    "To do list.md",
+    "Excalidraw/Drawing 2024-08-01 10.08.08.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-01 10.07.51.excalidraw.md",
+    "14-05-2024 Planning Meeting.md",
     "Product Design workshop.md",
-    "plan Birthday Chris.md",
     "Pasted Image 20240627124926_497.png",
-    "Open Source Tools collection.md",
-    "Movie list.md",
     "new room plan.md",
-    "mirror frame Magic Frames.md",
     "log Sebastien.md",
     "Linkedin Profile VCH.md",
     "Label Boxes Concept.md",
@@ -171,14 +199,8 @@
     "Dwarven system.md",
     "Buy List.md",
     "Docker and Docker Compose;.md",
-    "allesnaardetyfus.md",
-    "14-05-2024 Planning Meeting.md",
-    "Pasted Image 20240627124957_491.png",
     "Pasted Image 20240627124942_488.png",
-    "Excalidraw/Drawing 2024-07-18 19.08.24.excalidraw.md",
     "Excalidraw/Drawing 2024-07-11 12.38.55.excalidraw.png",
-    "Tonomy-Pangea/Tonomy/Agile workshop/Design thinking workshop.md",
-    "VCH Website.md",
     "Excalidraw/Drawing 2024-07-04 13.10.44.excalidraw.png",
     "Excalidraw/Drawing 2024-06-27 13.41.13.excalidraw.png",
     "Excalidraw/Flow For Viridis.excalidraw.png",
